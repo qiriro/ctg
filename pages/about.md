@@ -20,9 +20,10 @@ During childbirth, obstetricians visually examine the morphological variations i
 In the context of Rwanda, due to a severe lack of qualified obstetricians and the large number of deliveries each obstetrician is expected to perform daily, the available CTG machines are often not put to good use and their outputs are poorly interpreted. When CTG interpretation is ambiguous, out of an abundance of caution, obstetricians often resort to unnecessary and costly emergency cesarean sections instead of waiting for a natural vaginal birth.
 
 <figure class="figure">
-  <img src="static_files/images/system-architecture.png" class="figure-img img-fluid rounded" alt="">
+  <img src="/static_files/images/system-architecture.png" class="figure-img img-fluid rounded" />
   <figcaption class="figure-caption">OVERVIEW OF THE MEDICAL DEVICE: The device is pluggable into an existing CTG, uses a cheap WIFI router for intranet communication (thus, no internet is required), and provides a centralized monitoring mechanism that allows a single obstetrician to monitor several mothers at the same time on a single large screen..</figcaption>
 </figure>
+
 
 This clinical trial aims to evaluate the efficacy of an Intelligent Cardiotocography with Real-Time Alerts for an Improved Labor and delivery. The development of the device and the clinical trial are fully sponsored by Spiker Ltd, a Japanese healthcare company. 
 
