@@ -42,7 +42,7 @@ exclude:
 defaults:
   -
     scope:
-      path: ""
+      path: "static_files/images"
       type: "posts"
     values:
       permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
