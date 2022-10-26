@@ -1,6 +1,6 @@
 # SITE SETTINGS
-title: AI CTG                       
-description: An Intelligent Clinical Decision Support System for a Rapid Intrapartum Cardiotocography Interpretation During Childbirth
+title: Intelligent CTG                       
+description: A low-cost, intelligent and pluggable clinical decision support system for a rapid intrapartum cardiotocography interpretation during childbirth
 author: Kizito NKURIKIYEYEZU, PhD                   
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
