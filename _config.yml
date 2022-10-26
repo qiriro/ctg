@@ -9,8 +9,8 @@ author: Kizito NKURIKIYEYEZU, PhD
 
 # SOCIAL PROFILES
 email:              # Social icon in footer
-twitter_username: nkuzito           # Social icon in footer
-github_username:  qiriro          # Social icon in footer
+twitter_username:            # Social icon in footer
+github_username:            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0

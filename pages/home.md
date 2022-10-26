@@ -14,5 +14,5 @@ system for an automatic cardiotocography (CTG) interpretation. The CDS system in
 
 <figure class="figure">
   <img src="static_files/images/system-architecture.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
-  <figcaption class="figure-caption">A caption for the above image.</figcaption>
+  <figcaption class="figure-caption">Overview of the intellegent CTG device<br> The device is pluggable into an existing CTG, uses a cheap WIFI router for intranet communication (thus, no internet is required), and provides a centralized monitoring mechanism that allows a single obstetrician to monitor several mothers at the same time on a single large screen..</figcaption>
 </figure>
