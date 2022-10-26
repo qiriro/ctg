@@ -1,3 +1,7 @@
+- name: Ayako Kasai
+  role: CEO, spiker ltd
+  image: static_files/people/ayako.jpeg
+
 - name: Kizito Nkurikiyeyezu, PhD
   role: Principal Investigator
   image: static_files/people/kizito.jpg
@@ -6,12 +10,4 @@
   twitter: nkuzito
   github: qiriro 
   email: kizito@duck.com
-
-- name: Ayako Kasai
-  role: CEO, spiker ltd
   
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
-  description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
