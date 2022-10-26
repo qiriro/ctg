@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
+title: Intelligent Cardiotocography (CTG) 
+description: A low-cost, intelligent and pluggable clinical decision support system for a rapid intrapartum cardiotocography interpretation during childbirth
 background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
 permalink: /
 ---
