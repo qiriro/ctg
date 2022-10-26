@@ -73,7 +73,7 @@ The device uses advanced signal processing and segmentation of the fetal heart r
 
 ## Bibliography 
 
-- [^1]: World Health Organization, “Trends in maternal mortality 2000 to 2017: estimates by WHO,
+- [^1]: World Health Organization, “Trends in maternal mortality 2000 to 2017 estimates by WHO,
 UNICEF, UNFPA, World Bank Group and the United Nations Population Division” World Health Organization, 2019.
 - [^2]: N. Prata, P. Passano, A. Sreenivas, et al., “Maternal mortality in developing countries: Challenges
 in scaling-up priority interventions,” Women’s Health, vol. 6, no. 2, pp. 311–327,
@@ -83,31 +83,29 @@ Sustainable Development,” Global indicator framework for the Sustainable Devel
 Goals and targets of the 2030 Agenda for Sustainable Development,, vol. 11371, pp. 4–25, Jul.
 2017.
 - [^4]: R. Mash, A. Howe, O. Olayemi, et al., “Reflections on family medicine and primary healthcare in sub-Saharan Africa,” BMJ Global Health, vol. 3, no. Suppl 3, pp. 1–3, May 2018.
-- [^5]: WHO, “WHO recommended interventions for improving maternal and newborn health: integrated
-management of pregnancy and childbirth,” World Health Organization, 2009.
+- [^5]: WHO, “WHO recommended interventions for improving maternal and newborn health- integrated management of pregnancy and childbirth,” World Health Organization, 2009.
 - [6]: World Health Organization, “Ethics and governance of artificial intelligence for health,”World Health Organization, Jun. 2021.
-- [7]:  E. J. Topol, “High-performance medicine: the convergence of human and artificial intelligence,” Nature Medicine, vol. 25, no. 1, pp. 44–56, Jan. 2019.
-- [8] A. Esteva, B. Kuprel, R. A. Novoa, et al., “Dermatologist-level classification of skin cancer
+- [7]:  E. J. Topol, “High-performance medicine- the convergence of human and artificial intelligence,” Nature Medicine, vol. 25, no. 1, pp. 44–56, Jan. 2019.
+- [^8]: A. Esteva, B. Kuprel, R. A. Novoa, et al., “Dermatologist-level classification of skin cancer
 with deep neural networks,” Nature, vol. 542, no. 7639, pp. 115–118, Feb. 2017.
-[9] A. Hosny and H. J. W. L. Aerts, “Artificial intelligence for global health,” Science, vol. 366,
+- [^9]: A. Hosny and H. J. W. L. Aerts, “Artificial intelligence for global health,” Science, vol. 366,
 no. 6468, pp. 955–956, Nov. 2019.
-[10] B. Wahl, A. Cossy-Gantner, S. Germann, et al., “Artificial intelligence (AI) and global health:
-how can AI contribute to health in resource-poor settings?” BMJ Global Health, vol. 3, no. 4,
+- [^10] B. Wahl, A. Cossy-Gantner, S. Germann, et al., “Artificial intelligence (AI) and global health-how can AI contribute to health in resource-poor settings?” BMJ Global Health, vol. 3, no. 4,
 e000798, Aug. 2018.
-[11] J. S. Weber and K. Toyama, “Remembering the past for meaningful AI-D,” in AAAI Spring
-Symposium - Technical Report, vol. SS-10-01, Palo Alto, California: Association for the
+- [^11]: J. S. Weber and K. Toyama, “Remembering the past for meaningful AI-D,” in AAAI Spring
+Symposium - Technical Report, vol. SS-10-01, Palo Alto, California- Association for the
 Advancement of Artificial Intelligence, 2010, pp. 97–102.
-[12] J. Guo and B. Li, “The Application of Medical Artificial Intelligence Technology in Rural
+- [^12]: J. Guo and B. Li, “The Application of Medical Artificial Intelligence Technology in Rural
 Areas of Developing Countries,” Health Equity, vol. 2, no. 1, pp. 174–181, 2018.
-[13] The Government of Rwanda, “Vision 2050,” The Government of Rwanda, Kigali, 2020.
-[14] UNICEF, “Rwanda Health Budget Brief: Investing in Children’s Health in Rwanda
+- [^13]: The Government of Rwanda, “Vision 2050,” The Government of Rwanda, Kigali, 2020.
+- [^14]: UNICEF, “Rwanda Health Budget Brief- Investing in Children’s Health in Rwanda
 2021/2022,” UNICEF, Nov. 2021.
-[15] Ministry of Health, “National Strategy for Health Professions Development 2020 2030,”
+-[^15]: Ministry of Health, “National Strategy for Health Professions Development 2020 2030,”
 Ministry of Health, Kigali, 2020.
-[16] Rwanda Ministry of Health, “Rwanda Fourth Health Sector Strategic Plan (July 2018-June
+-[^16]: Rwanda Ministry of Health, “Rwanda Fourth Health Sector Strategic Plan (July 2018-June
 2024),” Rwanda Ministry of Health, Kigali, 2018.
-[17] Rwanda Ministry of Health, “National Surgical, Obstetrics, and Anesthesia Plan 20182024,”
+-[^17]: Rwanda Ministry of Health, “National Surgical, Obstetrics, and Anesthesia Plan 20182024,”
 Rwanda Ministry of Health, 2018.
-[18] A. C. Lee, N. Kozuki, H. Blencowe, et al., “Intrapartum-related neonatal encephalopathy
+-[^18]: A. C. Lee, N. Kozuki, H. Blencowe, et al., “Intrapartum-related neonatal encephalopathy
 incidence and impairment at regional and global levels for 2010 with trends from 1990,”
 Pediatric Research, vol. 74, no. S1, pp. 50–72, Dec. 2013.
