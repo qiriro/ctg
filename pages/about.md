@@ -75,7 +75,7 @@ The device uses advanced signal processing and segmentation of the fetal heart r
 
 - [^1]: World Health Organization. Trends in maternal mortality 2000 to 2017⁠- estimates by WHO UNICEF, UNFPA, World Bank Group and the United Nations Population Division. World Health Organization, 2019 
 
-- [^2]: Ndola Prata, Paige Passano, Amita Sreenivas, et al. “Maternal mortality in developing countries-Challenges in scaling-up priority interventions”. Women’s Health 6.2 (2010), pp. 311–327. 
+- [^2]: Ndola Prata, Paige Passano, Amita Sreenivas, et al. Maternal mortality in developing countries-Challenges in scaling-up priority interventions. Women’s Health (2010), pp. 311–327. 
 
 - [^3]: United Nations. Work of the Statistical Commission pertaining to the 2030 Agenda for
 Sustainable Development. Global indicator framework for the Sustainable Development
