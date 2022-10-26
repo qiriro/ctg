@@ -3,6 +3,7 @@ title: study protocols
 description: 
 background: 
 permalink: /protocols/
+toc: true
 ---
 
 ## BACKGROUND
