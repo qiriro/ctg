@@ -73,72 +73,71 @@ The device uses advanced signal processing and segmentation of the fetal heart r
 
 ## Bibliography 
 
-- [^1]: World Health Organization. Trends in maternal mortality 2000 to 2017⁠— estimates by WHO UNICEF, UNFPA, World Bank Group and the United Nations Population Division: executive
-summary. World Health Organization, 2019 
+- [^1]: World Health Organization. Trends in maternal mortality 2000 to 2017⁠- estimates by WHO UNICEF, UNFPA, World Bank Group and the United Nations Population Division. World Health Organization, 2019 
 
-- [^2]: Ndola Prata, Paige Passano, Amita Sreenivas, et al. “Maternal mortality in developing countries: Challenges in scaling-up priority interventions”. In:Women’s Health 6.2 (2010), pp. 311–327. issn: 17455057. 
+- [^2]: Ndola Prata, Paige Passano, Amita Sreenivas, et al. “Maternal mortality in developing countries-Challenges in scaling-up priority interventions”. Women’s Health 6.2 (2010), pp. 311–327. 
 
 - [^3]: United Nations. Work of the Statistical Commission pertaining to the 2030 Agenda for
 Sustainable Development. Global indicator framework for the Sustainable Development
 Goals and targets of the 2030 Agenda for Sustainable Development, 11371, pp. 4–25 
 
 - [^4]: Robert Mash, Amanda Howe, Osa Olayemi, et al. Reflections on family medicine and primary
-healthcare in sub-Saharan Africa. BMJ Global Health 3.Suppl 3 (May 2018), pp. 1–3. issn: 2059-7908. 
+healthcare in sub-Saharan Africa. BMJ Global Health 3.Suppl 3 (May 2018), pp. 1–3. 
 
-- [^5]: WHO. WHO recommended interventions for improving maternal and newborn health: integrated
+- [^5]: WHO. WHO recommended interventions for improving maternal and newborn health- integrated
 management of pregnancy and childbirth. World Health Organization, 2009 
 
 - [^6]: World Health Organization. Ethics and governance of artificial intelligence for health. World Health Organization, June 2021 
 
-- [^7]: Eric J. Topol. High-performance medicine: the convergence of human and artificial intelligence.In: Nature Medicine 25.1 (Jan. 2019), pp. 44–56. 
+- [^7]: Eric J. Topol. High-performance medicine- the convergence of human and artificial intelligence.Nature Medicine 25.1 (Jan. 2019), pp. 44–56. 
 
-- [^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. In: Nature 542.7639, pp. 115–118. issn: 0028-0836. doi: 10.1038/nature21056 
+- [^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. Nature 542.7639, pp. 115–118. 
 
-- [^9]: Ahmed Hosny and Hugo J. W. L. Aerts. Artificial intelligence for global health. In: Science 366.6468, pp. 955–956. 
+- [^9]: Ahmed Hosny and Hugo J. W. L. Aerts. Artificial intelligence for global health.  Science 366.6468, pp. 955–956. 
 aay5189 
 
-- [^10]: Brian Wahl, Aline Cossy-Gantner, Stefan Germann, et al. Artificial intelligence (AI) and global health: how can AI contribute to health in resource-poor settings? In: BMJ Global
-Health 3.4, e000798. issn: 2059-7908. 
+- [^10]: Brian Wahl, Aline Cossy-Gantner, Stefan Germann, et al. Artificial intelligence (AI) and global health-how can AI contribute to health in resource-poor settings? BMJ Global
+Health 3.4, e000798. 
 
-- [^11]: Julie S. Weber and Kentaro Toyama. Remembering the past for meaningful AI-D. In: AAAI
-Spring Symposium - Technical Report. Vol. SS-10-01. Palo Alto, California: Association for
+- [^11]: Julie S. Weber and Kentaro Toyama. Remembering the past for meaningful AI-D. AAAI
+Spring Symposium - Technical Report. Vol. SS-10-01. Palo Alto, California Association for
 the Advancement of Artificial Intelligence, 2010, pp. 97–102
 
 - [^12]: Jonathan Guo and Bin Li. The Application of Medical Artificial Intelligence Technology
-in Rural Areas of Developing Countries. In: Health Equity 2.1 (2018), pp. 174–181.
+in Rural Areas of Developing Countries. Health Equity 2.1 (2018), pp. 174–181.
 
-- [^13]: The Government of Rwanda. Vision 2050. Kigali: The Government of Rwanda, 2020 
+- [^13]: The Government of Rwanda. Vision 2050. The Government of Rwanda, 2020 
 
-- [^14]: UNICEF. Rwanda Health Budget Brief: Investing in Children’s Health in Rwanda 2021/2022. UNICEF, Nov. 2021 
+- [^14]: UNICEF. Rwanda Health Budget Brief- Investing in Children’s Health in Rwanda 2021/2022. UNICEF, Nov. 2021 
 
 - [^15]: Ministry of Health. National Strategy for Health for Health Professions Development 2020 2030.
-- [^16]: Rwanda Ministry of Health. Rwanda Fourth Health Sector Strategic Plan (July 2018-June 2024). Kigali: Rwanda Ministry of Health, 2018 
+- [^16]: Rwanda Ministry of Health. Rwanda Fourth Health Sector Strategic Plan (July 2018-June 2024). Rwanda Ministry of Health, 2018 
 - [^17]: Rwanda Ministry of Health. National Surgical, Obstetrics, and Anesthesia Plan 20182024 Rwanda Ministry of Health, 2018 
 - [^18]: Anne C.C. Lee, Naoko Kozuki, Hannah Blencowe, et al. Intrapartum-related neonatal encephalopathy incidence and impairment at regional and global levels for 2010 with trends
-from 1990. In: Pediatric Research 74.S1 (Dec. 2013), pp. 50–72. 
+from 1990. Pediatric Research 74.S1 (Dec. 2013), pp. 50–72. 
 - [^19]: Zarko Alfirevic, Declan Devane, Gillian M.L. Gyte, et al. Continuous cardiotocography
-(CTG) as a form of electronic fetal monitoring (EFM) for fetal assessment during labour. In:
+(CTG) as a form of electronic fetal monitoring (EFM) for fetal assessment during labour. 
 Cochrane Database of Systematic Reviews 2017.2 (2017). 
 - [^20]: Diogo Ayres-de-Campos, Catherine Y Spong, Edwin Chandraharan, et al. FIGO consensus
-guidelines on intrapartum fetal monitoring: Cardiotocography. In: International Journal of
+guidelines on intrapartum fetal monitoring. Cardiotocography. International Journal of
 Gynecology & Obstetrics 131.1 (2015), pp. 13–24.
 - [^21]: Susana Santo and Diogo Ayres-de-Campos. Human factors affecting the interpretation of
-fetal heart rate tracings: an update. In: Current Opinion in Obstetrics & Gynecology 24.2
+fetal heart rate tracings. Current Opinion in Obstetrics & Gynecology 24.2
 (Mar. 2012), pp. 84–88. 
-- [^22]: Declan Devane and Joan Lalor. Midwives’ visual interpretation of intrapartum cardiotocographs: intra- and inter-observer agreement. In: Journal of Advanced Nursing 52.2
+- [^22]: Declan Devane and Joan Lalor. Midwives’ visual interpretation of intrapartum cardiotocographs -intra- and inter-observer agreement. Journal of Advanced Nursing 52.2
 (Oct. 2005), pp. 133–141. 
 03575.x 
-- [^23]: Christopher A. Lear, Jenny A. Westgate, Michi Kasai, et al. Parasympathetic activity is the key regulator of heart rate variability between decelerations during brief repeated umbilical cord occlusions in fetal sheep. In: American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 319.5 (Nov. 2020), R541–R550. 
+- [^23]: Christopher A. Lear, Jenny A. Westgate, Michi Kasai, et al. Parasympathetic activity is the key regulator of heart rate variability between decelerations during brief repeated umbilical cord occlusions in fetal sheep. American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 319.5 (Nov. 2020), R541–R550. 
 - [^24]: C. Garabedian, J. De Jonckheere, L. Butruille, et al. Understanding fetal physiology and
-second line monitoring during labor. In: Journal of Gynecology Obstetrics and Human
+second line monitoring during labor. Journal of Gynecology Obstetrics and Human
 Reproduction 46.2 (Feb. 2017), pp. 113–117. 
 - [^25]: A. Ugwumadu. Are we (mis)guided by current guidelines on intrapartum fetal heart rate
-monitoring? Case for a more physiological approach to interpretation. BJOG: An International Journal of Obstetrics and Gynaecology 121.9 (2014), pp. 1063–1070. 
-- [^26]: Obianuju Nzelu. Human Factors: The Dirty Dozen in CTG misinterpretation. In: Global
+monitoring? Case for a more physiological approach to interpretation. BJOG. An International Journal of Obstetrics and Gynaecology 121.9 (2014), pp. 1063–1070. 
+- [^26]: Obianuju Nzelu. Human Factors-The Dirty Dozen in CTG misinterpretation. In: Global
 Journal of Reproductive Medicine 6.2 (2018). 
-- [^27]: Royal College of Obstetricians and Gynaecologists. Each Baby Counts: 2020 Final Progress
-Report. March. London,UK: Royal College of Obstetricians and Gynaecologists, 2021 
+- [^27]: Royal College of Obstetricians and Gynaecologists. Each Baby Counts-2020 Final Progress
+Report. March. London,UK. Royal College of Obstetricians and Gynaecologists, 2021 
 - [^28]: Emma R. Allanson, Robert C. Pattinson, Elizabeth A. Nathan, et al. “A before and after
 study of the impact on obstetric and perinatal outcomes following the introduction of an educational package of fetal heart rate monitoring education coupled with umbilical artery
-lactate sampling in a low resource setting labor ward in”. In: BMC Pregnancy and Childbirth
+lactate sampling in a low resource setting labor ward in”. BMC Pregnancy and Childbirth
 19.1 (2019), pp. 1–8. 
