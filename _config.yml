@@ -3,7 +3,7 @@ title: Intelligent CTG
 description: Why about this medical device
 author: Kizito NKURIKIYEYEZU, PhD                   
 # url: "https://peterdesmet.github.io"  # No slash at the end
-# baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
+# baseurl: "/"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/about/#links
 
