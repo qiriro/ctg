@@ -2,18 +2,19 @@
 
 - text: home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: about
+- text: about the device
   href: /about/
-- text: clinical trial
+- text: study protocols
+  href: /protocols/
+- text: consent
   menu: # Dropdown menu (one level deep only)
-  - text: study protocol 🇬🇧
-    href: /protocols/
   - text: consent 🇬🇧
     href: /consent-en/
   - text: consent 🇷🇼
     href: /consent-rw/
   - text: information sheet
-    href: /markdown/
-  - text: contact us
-    href: /contact/
-    new_window: true
+    href: /information-sheet/
+- text: contact us
+  href: /contact/
+- text: faq
+  href: /faq/

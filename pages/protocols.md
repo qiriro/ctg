@@ -6,8 +6,6 @@ permalink: /protocols/
 toc: true
 ---
 
-## BACKGROUND
-
 ## PRÉCIS
 This will be a randomized controlled study evaluating the performance of a novel intelligent and Artificial Intelligence (AI) powered clinical decision support (CDS) system that was recently developed by Spiker Ltd. The study will comprise approximately 200 healthy pregnant women who are 18 years of age or older. The participants will be randomized 1:1 to undergo their labor and delivery care with or without the novel CDS system. The results of the clinical trial will be used in acquiring national and international certification before the device is mass-produced and distributed in Africa in general, and in Rwanda in particular. 
 
