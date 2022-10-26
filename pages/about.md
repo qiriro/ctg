@@ -15,7 +15,7 @@ all maternal-related death occurs in developing countries and that Sub-Saharan A
 The recently introduced Sustainable Development Goals (SDGs) provide a framework for rectifying
 this imbalance. SDGs aspire to provide fair access to maternal healthcare for all by reducing the global MMR to less than 70 per 100,000 live births by 2030 [^3]. Nonetheless, attaining this milestone will be challenging to most developing countries. These challenges include, among other things, a severe shortage of proficient healthcare providers and insufficient training, especially for mid and lower-level providers. Africa, for example, has only 3% of the world’s health care workers; yet, bears 25% of the global burden of disease [^4]. Without skilled medical personnel, it is virtually impossible to perform WHO’s recommended interventions for improving maternal health [^5].
 
-WHOrecognizes that Artificial Intelligence (AI) has an enormous potential to solve several healthcare challenges [^6]. For example, deep learning (DL) algorithms achieve human-like accuracy in some diagnostic [^7],[^8]. Nevertheless, while AI is often utilized to support healthcare in several developed countries, its usage in developing countries remains at the embryonic stage [^9],[^10]. Moreover, because most AI-based health applications are conceived for rich countries, they are not well-suited and too ambitious to serve their purpose in low-income countries [^11]. It is, however, important to note that AI-assisted medical techniques could help improve medical outcomes in resource-poor settings [^12]. For instance, in some cases, AI-assisted systems can serve in place of human experts if they are not available—which is often the case in resource-poor hospitals—and provide evidence-based epidemiological recommendations [^10]. These intelligent systems would, thus, allow
+WHOrecognizes that Artificial Intelligence (AI) has an enormous potential to solve several healthcare challenges [^6]. For example, deep learning (DL) algorithms achieve human-like accuracy in some diagnostic [^7], [^8]. Nevertheless, while AI is often utilized to support healthcare in several developed countries, its usage in developing countries remains at the embryonic stage [^9],[^10]. Moreover, because most AI-based health applications are conceived for rich countries, they are not well-suited and too ambitious to serve their purpose in low-income countries [^11]. It is, however, important to note that AI-assisted medical techniques could help improve medical outcomes in resource-poor settings [^12]. For instance, in some cases, AI-assisted systems can serve in place of human experts if they are not available—which is often the case in resource-poor hospitals—and provide evidence-based epidemiological recommendations [^10]. These intelligent systems would, thus, allow
 non-specialized healthcare personnel to perform specialized tasks such as diagnosis, prognosis, and treatment of several diseases and only refer to specialists when necessary [^9].
 
 ## Current challenge to healthcare
@@ -93,13 +93,13 @@ management of pregnancy and childbirth. World Health Organization, 2009
 - [^7]: Eric J. Topol. High-performance medicine: the convergence of human and artificial intelligence.In: Nature Medicine 25.1 (Jan. 2019), pp. 44–56. issn: 1078-8956. doi: 10.1038/
 s41591-018-0300-7 .
 
--[^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. In: Nature 542.7639 (Feb. 2017), pp. 115–118. issn: 0028-0836. doi: 10.1038/nature21056 
+-[^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. In: Nature 542.7639, pp. 115–118. issn: 0028-0836. doi: 10.1038/nature21056 
 
-- [^9]: Ahmed Hosny and Hugo J. W. L. Aerts. Artificial intelligence for global health. In: Science 366.6468 (Nov. 2019), pp. 955–956. issn: 0036-8075. doi: 10.1126/science.
+- [^9]: Ahmed Hosny and Hugo J. W. L. Aerts. Artificial intelligence for global health. In: Science 366.6468, pp. 955–956. issn: 0036-8075. doi: 10.1126/science.
 aay5189 
 
 - [^10]: Brian Wahl, Aline Cossy-Gantner, Stefan Germann, et al. Artificial intelligence (AI) and global health: how can AI contribute to health in resource-poor settings? In: BMJ Global
-Health 3.4 (Aug. 2018), e000798. issn: 2059-7908. doi: 10 . 1136 / bmjgh - 2018 -
+Health 3.4, e000798. issn: 2059-7908. doi: 10 . 1136 / bmjgh - 2018 -
 000798 
 
 - [^11]: Julie S. Weber and Kentaro Toyama. Remembering the past for meaningful AI-D. In: AAAI
