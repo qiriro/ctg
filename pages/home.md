@@ -6,14 +6,19 @@ background:
 permalink: /
 ---
 
+## SUMMARY
+
+I am the Principal Investigator and Researcher for a clinical trial of a new medical device that is expected to be used in Rwanda and other African countries in the near future. The clinical trial and the development of the medical device is sponsored by Spiker Ltd., a Japanese health technology company.
+
+The device is fully functional. The protocols of the clinical trial of this devices has been approved by the [Rwanda National Ethic Committee]({{ site.baseurl }}{% link /static_files/pdf/01-ethical-clearance.pdf %})(Ethical Clearance No 29/RNEC/2022) and the clinical trial further approved by the [Rwanda Food and Drug Administration (FDA)]({{ site.baseurl }}{% link /static_files/pdf/02-clinical-trial-approval.pdf %}) to be installed and tested in Rwandan hospitals. 
+
+This website was created to give information related to the new device and to provide enough information to participants of the clinical trial. 
 
 ## WHAT IS THIS NEW MEDICAL DEVICE?
 
 AI-CTG is a low-cost, intelligent and pluggable clinical decision support system for a rapid intrapartum cardiotocography interpretation during childbirth. 
 
 This device is an Artificial Intelligence (AI) powered clinical decision support (CDS) and analyses the CTG traces in real-time to assess the fetus's well-being. The CDS system requires no internet connection and provides mechanisms to allow early detection of fetal distress and facilitated obstetricians in making a rapid and evidence-informed decision during childbirth.  It is also designed to help reduce labor-intensive CTG monitoring tasks; thus, allowing obstetricians to spend time on other high-priority responsibilities. In particular, the proposed CDS system will help in decision-making during labor and will send alerts to medical personnel if an abnormal CTG is detected to expedite investigations of special cases that might need urgent medical interventions.
-
-The device is fully functional. The protocols of the clinical trial of this devices has been approved by the [Rwanda National Ethic Committee]({{ site.baseurl }}{% link /static_files/pdf/01-ethical-clearance.pdf %})(Ethical Clearance No 29/RNEC/2022) and the clinical trial further approved by the [Rwanda Food and Drug Administration (FDA)]({{ site.baseurl }}{% link /static_files/pdf/02-clinical-trial-approval.pdf %}) to be installed and tested in Rwandan hospitals. 
 
 ## WHAT IS A CTG?
 [Cardiotocography](https://en.wikipedia.org/wiki/Cardiotocography) is a technique to monitor heart rate and rhytm of a unborn baby (fetus) in her mother's womb and is normally used during late pregnancy and labor and helps the medical doctors identify babies at risks of lack of oxygen and to decide whether to performemergency delivery via instrumental vaginal birth or by cesarean section. 
