@@ -80,29 +80,39 @@ summary. World Health Organization, 2019
 
 - [^3]: United Nations. Work of the Statistical Commission pertaining to the 2030 Agenda for
 Sustainable Development. Global indicator framework for the Sustainable Development
-Goals and targets of the 2030 Agenda for Sustainable Development, 11371 (July 2017), pp. 4–25 
+Goals and targets of the 2030 Agenda for Sustainable Development, 11371, pp. 4–25 
 
 - [^4]: Robert Mash, Amanda Howe, Osa Olayemi, et al. Reflections on family medicine and primary
-healthcare in sub-Saharan Africa. In: BMJ Global Health 3.Suppl 3 (May 2018), pp. 1–3. issn: 2059-7908. doi: 10.1136/bmjgh-2017-000662 
+healthcare in sub-Saharan Africa. BMJ Global Health 3.Suppl 3 (May 2018), pp. 1–3. issn: 2059-7908. doi: 10.1136/bmjgh-2017-000662 
 
 - [^5]: WHO. WHO recommended interventions for improving maternal and newborn health: integrated
 management of pregnancy and childbirth. World Health Organization, 2009 
+
 - [6]: World Health Organization. Ethics and governance of artificial intelligence for health. World Health Organization, June 2021 
+
 - [7]: Eric J. Topol. High-performance medicine: the convergence of human and artificial intelligence.In: Nature Medicine 25.1 (Jan. 2019), pp. 44–56. issn: 1078-8956. doi: 10.1038/
 s41591-018-0300-7 .
+
 -[^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. In: Nature 542.7639 (Feb. 2017), pp. 115–118. issn: 0028-0836. doi: 10.1038/nature21056 
+
 - [^9]: Ahmed Hosny and Hugo J. W. L. Aerts. Artificial intelligence for global health. In: Science 366.6468 (Nov. 2019), pp. 955–956. issn: 0036-8075. doi: 10.1126/science.
 aay5189 
+
 - [^10]: Brian Wahl, Aline Cossy-Gantner, Stefan Germann, et al. Artificial intelligence (AI) and global health: how can AI contribute to health in resource-poor settings? In: BMJ Global
 Health 3.4 (Aug. 2018), e000798. issn: 2059-7908. doi: 10 . 1136 / bmjgh - 2018 -
 000798 
+
 - [^11]: Julie S. Weber and Kentaro Toyama. Remembering the past for meaningful AI-D. In: AAAI
 Spring Symposium - Technical Report. Vol. SS-10-01. Palo Alto, California: Association for
 the Advancement of Artificial Intelligence, 2010, pp. 97–102
+
 - [^12]: Jonathan Guo and Bin Li. The Application of Medical Artificial Intelligence Technology
 in Rural Areas of Developing Countries. In: Health Equity 2.1 (2018), pp. 174–181. issn: 24731242. doi: 10.1089/heq.2018.0037 
+
 - [^13]: The Government of Rwanda. Vision 2050. Kigali: The Government of Rwanda, 2020 
+
 - [^14]: UNICEF. Rwanda Health Budget Brief: Investing in Children’s Health in Rwanda 2021/2022. UNICEF, Nov. 2021 
+
 - [^15]: Ministry of Health. National Strategy for Health for Health Professions Development 2020 2030.
 - [^16]: Rwanda Ministry of Health. Rwanda Fourth Health Sector Strategic Plan (July 2018-June 2024). Kigali: Rwanda Ministry of Health, 2018 
 - [^17]: Rwanda Ministry of Health. National Surgical, Obstetrics, and Anesthesia Plan 20182024 Rwanda Ministry of Health, 2018 
