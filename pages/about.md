@@ -6,7 +6,7 @@ toc: true
 permalink: /about/
 ---
 
-## BACKGROUND AND RATIONALE
+## Background & Rationale 
 
 Maternal and neonatal health care was a key component of the United Nations (UN)’s Millennium
 De‘velopment Goals (MDGs) with an objective to reduce maternal mortality ratio (MMR) by 75% between 1990 and 2015. Although the World Health Organization (WHO) estimates that the MMR decreased by 38% worldwide between 2000 and 2017, this improvement is unequally distributed. WHO admits that up to 94% of all maternal deaths occurred in lower and middleincome countries—with Sub-Saharan Africa accounting for the largest MMR[^1]. For example, a comprehensive review on maternal mortality in developing countries estimates that around 99% of
@@ -18,7 +18,7 @@ this imbalance. SDGs aspire to provide fair access to maternal healthcare for al
 WHOrecognizes that Artificial Intelligence (AI) has an enormous potential to solve several healthcare challenges [^6]. For example, deep learning (DL) algorithms achieve human-like accuracy in some diagnostic [^7],[^8]. Nevertheless, while AI is often utilized to support healthcare in several developed countries, its usage in developing countries remains at the embryonic stage [^9],[^10]. Moreover, because most AI-based health applications are conceived for rich countries, they are not well-suited and too ambitious to serve their purpose in low-income countries [^11]. It is, however, important to note that AI-assisted medical techniques could help improve medical outcomes in resourcepoor settings [^12]. For instance, in some cases, AI-assisted systems can serve in place of human experts if they are not available—which is often the case in resource-poor hospitals—and provide evidence-based epidemiological recommendations [^10]. These intelligent systems would, thus, allow
 non-specialized healthcare personnel to perform specialized tasks such as diagnosis, prognosis, and treatment of several diseases and only refer to specialists when necessary [^9].
 
-## HEALTHCARE PROBLEM 
+## Current challenge to healthcare
 
 WHO’s recent report on trends in maternal mortality from 2000 to 2017 [^1] praised Rwanda for being one of the few developing countries that achieved the highest average annual rate of reduction (ARR) in global maternal mortality ratio (with ARR > 7%). While Rwanda has achieved a remarkable decline in its maternal mortality, a great deal of work remains to be done to meet the GoR’s target. For example, the GoR’s Vision 2050 [^13] has the ambition to decrease maternal mortality rate by 75% and infant mortality rate by 24% by the year 2035. Unfortunately, as echoed by UNICEF’s recent report on Rwanda’s health budget [^14]⁠—due to a shortage of qualified obstetrics and gynecology doctors [^15]⁠—such ambitious goals are unlikely to materialize unless the GoR introduces new innovations to reduce maternal mortality in the medium and long term [^14].
 
@@ -27,7 +27,7 @@ Moreover, as shown by the GoR’s Health Sector Strategic Plan [^16], this succe
 Considering that Rwanda’s population is expected to increase by more than 50% by 2035 and double
 by the year 2050 [^13], one can assume that Rwanda’s maternal care will deteriorate if nothing is done to tackle this problem. As recommended by the latest Rwanda’s National Surgical, Obstetric, and Anesthesia Plan [^17], there is a need to develop sustainable and homegrown innovative technical solutions for a sustainable, equitable, and efficient health care provision in Rwanda.
 
-## CHALLENGE AND OPPORTUNITY
+## Challenge & Opportunity 
 
 Intrapartum hypoxia (i.e., oxygen deficiency during birth)—commonly known as birth asphyxia—
 emerges before, during, or after birth when a baby does not receive an adequate amount of
@@ -37,12 +37,17 @@ contribute to almost 50% of the 2.6 million third trimester stillbirths and are 
 In most hosptial in Rwanda, intrapartum cardiotocography (CTG) is often used during childbirth
 to monitor the heart rate of the baby and the mother’s uterine contractions. A CTG graph can help to evaluate the baby’s well-being and identify babies at risk of hypoxia during labor and to decide whether the baby will be delivered by instrumental vaginal birth or by cesarean section [^19], [^20].
 
+<figure class="figure">
+  <img src="{{site.url}}{{ site.baseurl}}/static_files/images/ctg-output.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">A typical output of a CTG machine <br> A CTG trace calculate heart rate from fetal heart motion determined by ultrasound, and uterine contractions are measured by a tocodynamometer. In this figure, (A) represents the fetal heartbeat,  the (B) indicator shows the movements felt by mother (triggered by pressing a button), (C) shows the fetal movement and (D) show the uterine contractions </figcaption>
+</figure>
+
 During childbirth, obstetricians visually examine the morphological variations in CTG traces to identify the health status of a fetus. This approach, however, is unreliable and has poor reproducibility because the interpretation is often subjective and varies from one obstetrician to another [^21], [^22]. When there is a misinterpretations, out of an abundance of caution, obstetricians often perform unnecessary operative deliveries [^19]. Moreover, the fetus’s heart rate variability is influenced by the brain’s parasympathetic and sympathetic activities [^23], [^24] and its patterns are affected by several other stimuli such as the uterine contractions [^22]. Consequently, intrapartum fetal monitoring must also consider a physiological viewpoint instead of just focusing on the morphological appearance of the fetal heart rate [^24]. CTG traces contain complex information about the baby’s condition and identification of the baby’s hypoxemia (e.g., low blood oxygen). Thus, proper CTG interpretation would require the medical personnel to have a good understanding of the physiology of the fetus during childbirth and other compensatory mechanisms of the fetus [^25]. Visually analyzing CTG
 traces cannot reveal such important diagnostic information and its appropriate interpretation[^24].
 
 Finally, several human factors [^21] such as distraction, tiredness, pressure, and stress [26] complicate CTG interpretation and may lead to fatal outcomes. For example, the Royal College of Obstetricians and Gynecologists’ report on perinatal mortality in the UK [27] shows that 66% of stillbirths, neonatal deaths, and brain injuries of term babies in labor in 2017 are due to errors of interpretation of CTG and failure to act upon suspicious or pathological CTG. In several cases, when there is an ambiguity in CTG interpretation, obstetricians often resort to unnecessary emergency cesarean sections [^28],[^19] instead of waiting for a natural vaginal birth.
 
-## OUR SOLUTION
+## Our solution
 
 In all public hospitals in Rwanda, intrapartum cardiotocography (CTG) is used during childbirth to monitor the heart rate of the baby and the mother's uterine contractions. A CTG graph can help to evaluate the baby's well-being and identify babies at risk of hypoxia during labor and to decide whether the baby will be delivered by instrumental vaginal birth or by cesarean section.
 
