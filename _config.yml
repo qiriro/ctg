@@ -1,6 +1,6 @@
 # SITE SETTINGS
-title: IDOP                       
-description: Infectious Diseases Outbreak Prediction using Geolocation Data with Machine Learning
+title: AI CTG                       
+description: An Intelligent Clinical Decision Support System for a Rapid Intrapartum Cardiotocography Interpretation During Childbirth
 author: Kizito NKURIKIYEYEZU, PhD                   
 # url: "https://peterdesmet.github.io"  # No slash at the end
 # baseurl: "/petridish"                 # Only required if your site is on a subdomain e.g. https://username.github.io/sitename
@@ -9,8 +9,8 @@ author: Kizito NKURIKIYEYEZU, PhD
 
 # SOCIAL PROFILES
 email:              # Social icon in footer
-twitter_username:            # Social icon in footer
-github_username:             # Social icon in footer
+twitter_username: nkuzito           # Social icon in footer
+github_username:  qiriro          # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
 posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
