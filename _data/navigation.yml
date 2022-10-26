@@ -1,23 +1,19 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
+- text: home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
-- text: About
+- text: about
   href: /about/
-- text: Team
+- text: team
   href: /team/
-- text: Blog
-  href: /blog/
-- text: Documentation
+- text: clinical trial
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: /installation/
-  - text: Configuration
-    href: /configuration/
-  - text: Markdown
+  - text: consent 🇬🇧
+    href: /consent-en/
+  - text: consent 🇷🇼
+    href: /consent-rw/
+  - text: information sheet
     href: /markdown/
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Dropdown header" # Title for block of menu items
-  - text: External link to GitHub
-    href: https://github.com/peterdesmet/petridish/
+  - text: contact us
+    href: /contact/
     new_window: true
