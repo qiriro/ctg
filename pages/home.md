@@ -10,7 +10,7 @@ permalink: /
 
 I am the Principal Investigator and Researcher for a clinical trial of a new medical device that is expected to be used in Rwanda and other African countries in the near future. The clinical trial and the development of the medical device is sponsored by Spiker Ltd., a Japanese health technology company.
 
-The device is fully functional. The protocols of the clinical trial of this devices has been approved by the [Rwanda National Ethic Committee]({{ site.baseurl }}{% link /static_files/pdf/01-ethical-clearance.pdf %})(Ethical Clearance No 29/RNEC/2022) and the clinical trial further approved by the [Rwanda Food and Drug Administration (FDA)]({{ site.baseurl }}{% link /static_files/pdf/02-clinical-trial-approval.pdf %}) to be installed and tested in Rwandan hospitals. 
+The device is fully functional. The protocols of the clinical trial of this devices has been approved by the [Rwanda National Ethic Committee]({{ site.baseurl }}{% link /static_files/pdf/01-ethical-clearance.pdf %}) (Ethical Clearance No 29/RNEC/2022) and the clinical trial further approved by the [Rwanda Food and Drug Administration (FDA)]({{ site.baseurl }}{% link /static_files/pdf/02-clinical-trial-approval.pdf %}) to be installed and tested in Rwandan hospitals. 
 
 This website was created to give information related to the new device and to provide enough information to participants of the clinical trial. 
 
@@ -36,3 +36,5 @@ The CDS system interfaces to an existing CTG machine and intuitively interprets 
   <img src="static_files/images/system-architecture.png" class="figure-img img-fluid rounded" alt="">
   <figcaption class="figure-caption">OVERVIEW OF THE MEDICAL DEVICE: The device is pluggable into an existing CTG, uses a cheap WIFI router for intranet communication (thus, no internet is required), and provides a centralized monitoring mechanism that allows a single obstetrician to monitor several mothers at the same time on a single large screen..</figcaption>
 </figure>
+
+The device uses advanced signal processign and cutting edge algorithms that closely follows the International Federation of Gynecology and Obstetrics (FIGO)'s guideline on intrapartum fetal monitoring and provide a timely and evidence-based interpretation of a CTG during childbirth. 
