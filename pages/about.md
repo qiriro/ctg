@@ -9,7 +9,9 @@ permalink: /about/
 ## Background & Rationale 
 
 Maternal and neonatal health care was a key component of the United Nations (UN)’s Millennium
-Development Goals (MDGs) with an objective to reduce maternal mortality ratio (MMR) by 75% between 1990 and 2015. Although the World Health Organization (WHO) estimates that the MMR decreased by 38% worldwide between 2000 and 2017, this improvement is unequally distributed. WHO admits that up to 94% of all maternal deaths occurred in lower and middle-income countries—with Sub-Saharan Africa accounting for the largest MMR[^1]. For example, a comprehensive review on maternal mortality in developing countries estimates that around 99% of
+Development Goals (MDGs) with an objective to reduce maternal mortality ratio (MMR) by 75% between 1990 and 2015. Although the World Health Organization (WHO) estimates that the MMR decreased by 38% worldwide between 2000 and 2017, this improvement is unequally distributed. WHO admits that up to 94% of all maternal deaths occurred in lower and middle-income countries—with Sub-Saharan Africa accounting for the largest MMR {% WorldHealthOrganization2019 %}
+
+[^1]. For example, a comprehensive review on maternal mortality in developing countries estimates that around 99% of
 all maternal-related death occurs in developing countries and that Sub-Saharan Africa alone accounts for 50% of all these maternal deaths, with 70 to 80% of the maternal deaths due to direct obstetric causes[^2].
 
 The recently introduced Sustainable Development Goals (SDGs) provide a framework for rectifying
@@ -73,79 +75,4 @@ The device uses advanced signal processing and segmentation of the fetal heart r
 
 ## Bibliography 
 
-- [^1]: World Health Organization. Trends in maternal mortality 2000 to 2017⁠— estimates by WHO UNICEF, UNFPA, World Bank Group and the United Nations Population Division: executive
-summary. World Health Organization, 2019 
-
-- [^2]: Ndola Prata, Paige Passano, Amita Sreenivas, et al. “Maternal mortality in developing countries: Challenges in scaling-up priority interventions”. In:Women’s Health 6.2 (2010), pp. 311–327. issn: 17455057. doi: 10.2217/whe.10.8 
-
-- [^3]: United Nations. Work of the Statistical Commission pertaining to the 2030 Agenda for
-Sustainable Development. Global indicator framework for the Sustainable Development
-Goals and targets of the 2030 Agenda for Sustainable Development, 11371, pp. 4–25 
-
-- [^4]: Robert Mash, Amanda Howe, Osa Olayemi, et al. Reflections on family medicine and primary
-healthcare in sub-Saharan Africa. BMJ Global Health 3.Suppl 3 (May 2018), pp. 1–3. issn: 2059-7908. doi: 10.1136/bmjgh-2017-000662 
-
-- [^5]: WHO. WHO recommended interventions for improving maternal and newborn health: integrated
-management of pregnancy and childbirth. World Health Organization, 2009 
-
-- [6]: World Health Organization. Ethics and governance of artificial intelligence for health. World Health Organization, June 2021 
-
-- [7]: Eric J. Topol. High-performance medicine: the convergence of human and artificial intelligence.In: Nature Medicine 25.1 (Jan. 2019), pp. 44–56. issn: 1078-8956. doi: 10.1038/
-s41591-018-0300-7 .
-
--[^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. In: Nature 542.7639 (Feb. 2017), pp. 115–118. issn: 0028-0836. doi: 10.1038/nature21056 
-
-- [^9]: Ahmed Hosny and Hugo J. W. L. Aerts. Artificial intelligence for global health. In: Science 366.6468 (Nov. 2019), pp. 955–956. issn: 0036-8075. doi: 10.1126/science.
-aay5189 
-
-- [^10]: Brian Wahl, Aline Cossy-Gantner, Stefan Germann, et al. Artificial intelligence (AI) and global health: how can AI contribute to health in resource-poor settings? In: BMJ Global
-Health 3.4 (Aug. 2018), e000798. issn: 2059-7908. doi: 10 . 1136 / bmjgh - 2018 -
-000798 
-
-- [^11]: Julie S. Weber and Kentaro Toyama. Remembering the past for meaningful AI-D. In: AAAI
-Spring Symposium - Technical Report. Vol. SS-10-01. Palo Alto, California: Association for
-the Advancement of Artificial Intelligence, 2010, pp. 97–102
-
-- [^12]: Jonathan Guo and Bin Li. The Application of Medical Artificial Intelligence Technology
-in Rural Areas of Developing Countries. In: Health Equity 2.1 (2018), pp. 174–181. issn: 24731242. doi: 10.1089/heq.2018.0037 
-
-- [^13]: The Government of Rwanda. Vision 2050. Kigali: The Government of Rwanda, 2020 
-
-- [^14]: UNICEF. Rwanda Health Budget Brief: Investing in Children’s Health in Rwanda 2021/2022. UNICEF, Nov. 2021 
-
-- [^15]: Ministry of Health. National Strategy for Health for Health Professions Development 2020 2030.
-- [^16]: Rwanda Ministry of Health. Rwanda Fourth Health Sector Strategic Plan (July 2018-June 2024). Kigali: Rwanda Ministry of Health, 2018 
-- [^17]: Rwanda Ministry of Health. National Surgical, Obstetrics, and Anesthesia Plan 20182024 Rwanda Ministry of Health, 2018 
-- [^18]: Anne C.C. Lee, Naoko Kozuki, Hannah Blencowe, et al. Intrapartum-related neonatal encephalopathy incidence and impairment at regional and global levels for 2010 with trends
-from 1990. In: Pediatric Research 74.S1 (Dec. 2013), pp. 50–72. issn: 0031-3998. doi: 10.1038/pr.2013.206 
-- [^19]: Zarko Alfirevic, Declan Devane, Gillian M.L. Gyte, et al. Continuous cardiotocography
-(CTG) as a form of electronic fetal monitoring (EFM) for fetal assessment during labour. In:
-Cochrane Database of Systematic Reviews 2017.2 (2017). issn: 1469493X. doi: 10.1002/14651858.CD006066.pub3 
-- [^20]: Diogo Ayres-de-Campos, Catherine Y Spong, Edwin Chandraharan, et al. FIGO consensus
-guidelines on intrapartum fetal monitoring: Cardiotocography. In: International Journal of
-Gynecology & Obstetrics 131.1 (2015), pp. 13–24. doi: 10.1016/j.ijgo.2015.06.
-020 
-- [^21]: Susana Santo and Diogo Ayres-de-Campos. Human factors affecting the interpretation of
-fetal heart rate tracings: an update. In: Current Opinion in Obstetrics & Gynecology 24.2
-(Mar. 2012), pp. 84–88. issn: 1040-872X. doi: 10.1097/GCO.0b013e3283505b3c
-- [^22]: Declan Devane and Joan Lalor. Midwives’ visual interpretation of intrapartum cardiotocographs: intra- and inter-observer agreement. In: Journal of Advanced Nursing 52.2
-(Oct. 2005), pp. 133–141. issn: 0309-2402. doi: 10.1111/j.1365-2648.2005.
-03575.x 
-- [^23]: Christopher A. Lear, Jenny A. Westgate, Michi Kasai, et al. Parasympathetic activity is the key regulator of heart rate variability between decelerations during brief repeated umbilical cord occlusions in fetal sheep. In: American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 319.5 (Nov. 2020), R541–R550. issn: 0363-6119. doi: 10.
-1152/ajpregu.00186.2020 
-- [^24]: C. Garabedian, J. De Jonckheere, L. Butruille, et al. Understanding fetal physiology and
-second line monitoring during labor. In: Journal of Gynecology Obstetrics and Human
-Reproduction 46.2 (Feb. 2017), pp. 113–117. issn: 24687847. doi: 10.1016/j.jogoh.
-2016.11.005 
-- [^25]: A. Ugwumadu. Are we (mis)guided by current guidelines on intrapartum fetal heart rate
-monitoring? Case for a more physiological approach to interpretation. In: BJOG: An International Journal of Obstetrics and Gynaecology 121.9 (2014), pp. 1063–1070. issn: 14710528.
-doi: 10.1111/1471-0528.12900 
-- [^26]: Obianuju Nzelu. Human Factors: The Dirty Dozen in CTG misinterpretation. In: Global
-Journal of Reproductive Medicine 6.2 (2018). doi: 10 . 19080 / gjorm . 2018 . 06 .
-555683 
-- [^27]: Royal College of Obstetricians and Gynaecologists. Each Baby Counts: 2020 Final Progress
-Report. March. London,UK: Royal College of Obstetricians and Gynaecologists, 2021 
-- [^28]: Emma R. Allanson, Robert C. Pattinson, Elizabeth A. Nathan, et al. “A before and after
-study of the impact on obstetric and perinatal outcomes following the introduction of an educational package of fetal heart rate monitoring education coupled with umbilical artery
-lactate sampling in a low resource setting labor ward in”. In: BMC Pregnancy and Childbirth
-19.1 (2019), pp. 1–8. issn: 14712393. doi: 10.1186/s12884-019-2552-8 
+{% bibliography --cited %}

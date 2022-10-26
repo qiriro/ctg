@@ -48,4 +48,6 @@ defaults:
     scope:
       path: ""
     values:
-      layout: "default"                 
+      layout: "default"  
+scholar:
+  style: modern-language-association               
