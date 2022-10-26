@@ -9,7 +9,7 @@ permalink: /about/
 ## Background & Rationale 
 
 Maternal and neonatal health care was a key component of the United Nations (UN)’s Millennium
-Development Goals (MDGs) with an objective to reduce maternal mortality ratio (MMR) by 75% between 1990 and 2015. Although the World Health Organization (WHO) estimates that the MMR decreased by 38% worldwide between 2000 and 2017, this improvement is unequally distributed. WHO admits that up to 94% of all maternal deaths occurred in lower and middle-income countries—with Sub-Saharan Africa accounting for the largest MMR $$^1$$ [^1]. For example, a comprehensive review on maternal mortality in developing countries estimates that around 99% of
+Development Goals (MDGs) with an objective to reduce maternal mortality ratio (MMR) by 75% between 1990 and 2015. Although the World Health Organization (WHO) estimates that the MMR decreased by 38% worldwide between 2000 and 2017, this improvement is unequally distributed. WHO admits that up to 94% of all maternal deaths occurred in lower and middle-income countries—with Sub-Saharan Africa accounting for the largest MMR[^1]. For example, a comprehensive review on maternal mortality in developing countries estimates that around 99% of
 all maternal-related death occurs in developing countries and that Sub-Saharan Africa alone accounts for 50% of all these maternal deaths, with 70 to 80% of the maternal deaths due to direct obstetric causes[^2].
 
 The recently introduced Sustainable Development Goals (SDGs) provide a framework for rectifying
@@ -88,9 +88,9 @@ healthcare in sub-Saharan Africa. BMJ Global Health 3.Suppl 3 (May 2018), pp. 1�
 - [^5]: WHO. WHO recommended interventions for improving maternal and newborn health: integrated
 management of pregnancy and childbirth. World Health Organization, 2009 
 
-- [6]: World Health Organization. Ethics and governance of artificial intelligence for health. World Health Organization, June 2021 
+- [^6]: World Health Organization. Ethics and governance of artificial intelligence for health. World Health Organization, June 2021 
 
-- [7]: Eric J. Topol. High-performance medicine: the convergence of human and artificial intelligence.In: Nature Medicine 25.1 (Jan. 2019), pp. 44–56. issn: 1078-8956. doi: 10.1038/
+- [^7]: Eric J. Topol. High-performance medicine: the convergence of human and artificial intelligence.In: Nature Medicine 25.1 (Jan. 2019), pp. 44–56. issn: 1078-8956. doi: 10.1038/
 s41591-018-0300-7 .
 
 -[^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. In: Nature 542.7639 (Feb. 2017), pp. 115–118. issn: 0028-0836. doi: 10.1038/nature21056 
