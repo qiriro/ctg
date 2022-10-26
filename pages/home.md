@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Intelligent Cardiotocography (CTG) 
-description: A low-cost, intelligent and pluggable clinical decision support system for a rapid intrapartum cardiotocography interpretation during childbirth
-background: /assets/theme/images/chuttersnap-146799-unsplash.jpg
+description: 
+background: 
 permalink: /
 ---
 
