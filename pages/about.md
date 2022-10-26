@@ -92,7 +92,7 @@ management of pregnancy and childbirth. World Health Organization, 2009
 
 - [^7]: Eric J. Topol. High-performance medicine: the convergence of human and artificial intelligence.In: Nature Medicine 25.1 (Jan. 2019), pp. 44–56. 
 
--[^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. In: Nature 542.7639, pp. 115–118. issn: 0028-0836. doi: 10.1038/nature21056 
+- [^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. In: Nature 542.7639, pp. 115–118. issn: 0028-0836. doi: 10.1038/nature21056 
 
 - [^9]: Ahmed Hosny and Hugo J. W. L. Aerts. Artificial intelligence for global health. In: Science 366.6468, pp. 955–956. 
 aay5189 
