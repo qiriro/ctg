@@ -10,7 +10,7 @@ permalink: /about/
 
 Maternal and neonatal health care was a key component of the United Nations (UN)’s Millennium
 De‘velopment Goals (MDGs) with an objective to reduce maternal mortality ratio (MMR) by 75% between 1990 and 2015. Although the World Health Organization (WHO) estimates that the MMR decreased by 38% worldwide between 2000 and 2017, this improvement is unequally distributed. WHO admits that up to 94% of all maternal deaths occurred in lower and middleincome countries—with Sub-Saharan Africa accounting for the largest MMR[^1]. For example, a comprehensive review on maternal mortality in developing countries estimates that around 99% of
-all maternal-related death occurs in developing countries and that Sub-Saharan Africa alone accounts for 50% of all these maternal deaths, with 70 to 80% of the maternal deaths due to direct obstetric causes [^2].
+all maternal-related death occurs in developing countries and that Sub-Saharan Africa alone accounts for 50% of all these maternal deaths, with 70 to 80% of the maternal deaths due to direct obstetric causes[^2].
 
 The recently introduced Sustainable Development Goals (SDGs) provide a framework for rectifying
 this imbalance. SDGs aspire to provide fair access to maternal healthcare for all by reducing the global MMR to less than 70 per 100,000 live births by 2030 [^3]. Nonetheless, attaining this milestone will be challenging to most developing countries. These challenges include, among other things, a severe shortage of proficient healthcare providers and insufficient training, especially for mid and lower-level providers. Africa, for example, has only 3% of the world’s health care workers; yet, bears 25% of the global burden of disease [^4]. Without skilled medical personnel, it is virtually impossible to perform WHO’s recommended interventions for improving maternal health [^5].
@@ -73,12 +73,11 @@ The device uses advanced signal processing and segmentation of the fetal heart r
 
 ## BIBLIOGRAPHY
 
-[^1]: World Health Organization. Trends in maternal mortality 2000 to 2017: estimates by WHO,
-UNICEF, UNFPA, World Bank Group and the United Nations Population Division: executive
+- [^1]: World Health Organization. Trends in maternal mortality 2000 to 2017⁠— estimates by WHO UNICEF, UNFPA, World Bank Group and the United Nations Population Division: executive
 summary. World Health Organization, 2019 
 
-[^2]: Ndola Prata, Paige Passano, Amita Sreenivas, et al. “Maternal mortality in developing countries: Challenges in scaling-up priority interventions”. In:Women’s Health 6.2 (2010), pp. 311–327. issn: 17455057. doi: 10.2217/whe.10.8 
+- [^2]: Ndola Prata, Paige Passano, Amita Sreenivas, et al. “Maternal mortality in developing countries: Challenges in scaling-up priority interventions”. In:Women’s Health 6.2 (2010), pp. 311–327. issn: 17455057. doi: 10.2217/whe.10.8 
 
-[^3]: United Nations. "Work of the Statistical Commission pertaining to the 2030 Agenda for
-Sustainable Development". In: Global indicator framework for the Sustainable Development
+- [^3]: United Nations. "Work of the Statistical Commission pertaining to the 2030 Agenda for
+Sustainable Development". Global indicator framework for the Sustainable Development
 Goals and targets of the 2030 Agenda for Sustainable Development, 11371 (July 2017), pp. 4–25 
