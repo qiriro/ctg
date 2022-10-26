@@ -15,7 +15,7 @@ all maternal-related death occurs in developing countries and that Sub-Saharan A
 The recently introduced Sustainable Development Goals (SDGs) provide a framework for rectifying
 this imbalance. SDGs aspire to provide fair access to maternal healthcare for all by reducing the global MMR to less than 70 per 100,000 live births by 2030 [^3]. Nonetheless, attaining this milestone will be challenging to most developing countries. These challenges include, among other things, a severe shortage of proficient healthcare providers and insufficient training, especially for mid and lower-level providers. Africa, for example, has only 3% of the world’s health care workers; yet, bears 25% of the global burden of disease [^4]. Without skilled medical personnel, it is virtually impossible to perform WHO’s recommended interventions for improving maternal health [^5].
 
-WHOrecognizes that Artificial Intelligence (AI) has an enormous potential to solve several healthcare challenges [^6]. For example, deep learning (DL) algorithms achieve human-like accuracy in some diagnostic [^7], [^8]. Nevertheless, while AI is often utilized to support healthcare in several developed countries, its usage in developing countries remains at the embryonic stage [^9],[^10]. Moreover, because most AI-based health applications are conceived for rich countries, they are not well-suited and too ambitious to serve their purpose in low-income countries [^11]. It is, however, important to note that AI-assisted medical techniques could help improve medical outcomes in resource-poor settings [^12]. For instance, in some cases, AI-assisted systems can serve in place of human experts if they are not available—which is often the case in resource-poor hospitals—and provide evidence-based epidemiological recommendations [^10]. These intelligent systems would, thus, allow
+WHO recognizes that Artificial Intelligence (AI) has an enormous potential to solve several healthcare challenges [^6]. For example, deep learning (DL) algorithms achieve human-like accuracy in some diagnostic [^7]. Nevertheless, while AI is often utilized to support healthcare in several developed countries, its usage in developing countries remains at the embryonic stage [^9],[^10]. Moreover, because most AI-based health applications are conceived for rich countries, they are not well-suited and too ambitious to serve their purpose in low-income countries [^11]. It is, however, important to note that AI-assisted medical techniques could help improve medical outcomes in resource-poor settings [^12]. For instance, in some cases, AI-assisted systems can serve in place of human experts if they are not available—which is often the case in resource-poor hospitals—and provide evidence-based epidemiological recommendations [^10]. These intelligent systems would, thus, allow
 non-specialized healthcare personnel to perform specialized tasks such as diagnosis, prognosis, and treatment of several diseases and only refer to specialists when necessary [^9].
 
 ## Current challenge to healthcare
@@ -45,7 +45,7 @@ to monitor the heart rate of the baby and the mother’s uterine contractions. A
 During childbirth, obstetricians visually examine the morphological variations in CTG traces to identify the health status of a fetus. This approach, however, is unreliable and has poor reproducibility because the interpretation is often subjective and varies from one obstetrician to another [^21], [^22]. When there is a misinterpretations, out of an abundance of caution, obstetricians often perform unnecessary operative deliveries [^19]. Moreover, the fetus’s heart rate variability is influenced by the brain’s parasympathetic and sympathetic activities [^23], [^24] and its patterns are affected by several other stimuli such as the uterine contractions [^22]. Consequently, intrapartum fetal monitoring must also consider a physiological viewpoint instead of just focusing on the morphological appearance of the fetal heart rate [^24]. CTG traces contain complex information about the baby’s condition and identification of the baby’s hypoxemia (e.g., low blood oxygen). Thus, proper CTG interpretation would require the medical personnel to have a good understanding of the physiology of the fetus during childbirth and other compensatory mechanisms of the fetus [^25]. Visually analyzing CTG
 traces cannot reveal such important diagnostic information and its appropriate interpretation[^24].
 
-Finally, several human factors [^21] such as distraction, tiredness, pressure, and stress [26] complicate CTG interpretation and may lead to fatal outcomes. For example, the Royal College of Obstetricians and Gynecologists’ report on perinatal mortality in the UK [27] shows that 66% of stillbirths, neonatal deaths, and brain injuries of term babies in labor in 2017 are due to errors of interpretation of CTG and failure to act upon suspicious or pathological CTG. In several cases, when there is an ambiguity in CTG interpretation, obstetricians often resort to unnecessary emergency cesarean sections [^28],[^19] instead of waiting for a natural vaginal birth.
+Finally, several human factors [^21] such as distraction, tiredness, pressure, and stress [26] complicate CTG interpretation and may lead to fatal outcomes. For example, the Royal College of Obstetricians and Gynecologists’ report on perinatal mortality in the UK [^27] shows that 66% of stillbirths, neonatal deaths, and brain injuries of term babies in labor in 2017 are due to errors of interpretation of CTG and failure to act upon suspicious or pathological CTG. In several cases, when there is an ambiguity in CTG interpretation, obstetricians often resort to unnecessary emergency cesarean sections [^28],[^19] instead of waiting for a natural vaginal birth.
 
 ## Our solution
 
@@ -76,38 +76,36 @@ The device uses advanced signal processing and segmentation of the fetal heart r
 - [^1]: World Health Organization. Trends in maternal mortality 2000 to 2017⁠— estimates by WHO UNICEF, UNFPA, World Bank Group and the United Nations Population Division: executive
 summary. World Health Organization, 2019 
 
-- [^2]: Ndola Prata, Paige Passano, Amita Sreenivas, et al. “Maternal mortality in developing countries: Challenges in scaling-up priority interventions”. In:Women’s Health 6.2 (2010), pp. 311–327. issn: 17455057. doi: 10.2217/whe.10.8 
+- [^2]: Ndola Prata, Paige Passano, Amita Sreenivas, et al. “Maternal mortality in developing countries: Challenges in scaling-up priority interventions”. In:Women’s Health 6.2 (2010), pp. 311–327. issn: 17455057. 
 
 - [^3]: United Nations. Work of the Statistical Commission pertaining to the 2030 Agenda for
 Sustainable Development. Global indicator framework for the Sustainable Development
 Goals and targets of the 2030 Agenda for Sustainable Development, 11371, pp. 4–25 
 
 - [^4]: Robert Mash, Amanda Howe, Osa Olayemi, et al. Reflections on family medicine and primary
-healthcare in sub-Saharan Africa. BMJ Global Health 3.Suppl 3 (May 2018), pp. 1–3. issn: 2059-7908. doi: 10.1136/bmjgh-2017-000662 
+healthcare in sub-Saharan Africa. BMJ Global Health 3.Suppl 3 (May 2018), pp. 1–3. issn: 2059-7908. 
 
 - [^5]: WHO. WHO recommended interventions for improving maternal and newborn health: integrated
 management of pregnancy and childbirth. World Health Organization, 2009 
 
 - [^6]: World Health Organization. Ethics and governance of artificial intelligence for health. World Health Organization, June 2021 
 
-- [^7]: Eric J. Topol. High-performance medicine: the convergence of human and artificial intelligence.In: Nature Medicine 25.1 (Jan. 2019), pp. 44–56. issn: 1078-8956. doi: 10.1038/
-s41591-018-0300-7 .
+- [^7]: Eric J. Topol. High-performance medicine: the convergence of human and artificial intelligence.In: Nature Medicine 25.1 (Jan. 2019), pp. 44–56. 
 
 -[^8]: Andre Esteva, Brett Kuprel, Roberto A. Novoa, et al. Dermatologist-level classification of skin cancer with deep neural networks. In: Nature 542.7639, pp. 115–118. issn: 0028-0836. doi: 10.1038/nature21056 
 
-- [^9]: Ahmed Hosny and Hugo J. W. L. Aerts. Artificial intelligence for global health. In: Science 366.6468, pp. 955–956. issn: 0036-8075. doi: 10.1126/science.
+- [^9]: Ahmed Hosny and Hugo J. W. L. Aerts. Artificial intelligence for global health. In: Science 366.6468, pp. 955–956. 
 aay5189 
 
 - [^10]: Brian Wahl, Aline Cossy-Gantner, Stefan Germann, et al. Artificial intelligence (AI) and global health: how can AI contribute to health in resource-poor settings? In: BMJ Global
-Health 3.4, e000798. issn: 2059-7908. doi: 10 . 1136 / bmjgh - 2018 -
-000798 
+Health 3.4, e000798. issn: 2059-7908. 
 
 - [^11]: Julie S. Weber and Kentaro Toyama. Remembering the past for meaningful AI-D. In: AAAI
 Spring Symposium - Technical Report. Vol. SS-10-01. Palo Alto, California: Association for
 the Advancement of Artificial Intelligence, 2010, pp. 97–102
 
 - [^12]: Jonathan Guo and Bin Li. The Application of Medical Artificial Intelligence Technology
-in Rural Areas of Developing Countries. In: Health Equity 2.1 (2018), pp. 174–181. issn: 24731242. doi: 10.1089/heq.2018.0037 
+in Rural Areas of Developing Countries. In: Health Equity 2.1 (2018), pp. 174–181.
 
 - [^13]: The Government of Rwanda. Vision 2050. Kigali: The Government of Rwanda, 2020 
 
@@ -117,35 +115,30 @@ in Rural Areas of Developing Countries. In: Health Equity 2.1 (2018), pp. 174–
 - [^16]: Rwanda Ministry of Health. Rwanda Fourth Health Sector Strategic Plan (July 2018-June 2024). Kigali: Rwanda Ministry of Health, 2018 
 - [^17]: Rwanda Ministry of Health. National Surgical, Obstetrics, and Anesthesia Plan 20182024 Rwanda Ministry of Health, 2018 
 - [^18]: Anne C.C. Lee, Naoko Kozuki, Hannah Blencowe, et al. Intrapartum-related neonatal encephalopathy incidence and impairment at regional and global levels for 2010 with trends
-from 1990. In: Pediatric Research 74.S1 (Dec. 2013), pp. 50–72. issn: 0031-3998. doi: 10.1038/pr.2013.206 
+from 1990. In: Pediatric Research 74.S1 (Dec. 2013), pp. 50–72. 
 - [^19]: Zarko Alfirevic, Declan Devane, Gillian M.L. Gyte, et al. Continuous cardiotocography
 (CTG) as a form of electronic fetal monitoring (EFM) for fetal assessment during labour. In:
-Cochrane Database of Systematic Reviews 2017.2 (2017). issn: 1469493X. doi: 10.1002/14651858.CD006066.pub3 
+Cochrane Database of Systematic Reviews 2017.2 (2017). 
 - [^20]: Diogo Ayres-de-Campos, Catherine Y Spong, Edwin Chandraharan, et al. FIGO consensus
 guidelines on intrapartum fetal monitoring: Cardiotocography. In: International Journal of
-Gynecology & Obstetrics 131.1 (2015), pp. 13–24. doi: 10.1016/j.ijgo.2015.06.
-020 
+Gynecology & Obstetrics 131.1 (2015), pp. 13–24.
 - [^21]: Susana Santo and Diogo Ayres-de-Campos. Human factors affecting the interpretation of
 fetal heart rate tracings: an update. In: Current Opinion in Obstetrics & Gynecology 24.2
-(Mar. 2012), pp. 84–88. issn: 1040-872X. doi: 10.1097/GCO.0b013e3283505b3c
+(Mar. 2012), pp. 84–88. 
 - [^22]: Declan Devane and Joan Lalor. Midwives’ visual interpretation of intrapartum cardiotocographs: intra- and inter-observer agreement. In: Journal of Advanced Nursing 52.2
-(Oct. 2005), pp. 133–141. issn: 0309-2402. doi: 10.1111/j.1365-2648.2005.
+(Oct. 2005), pp. 133–141. 
 03575.x 
-- [^23]: Christopher A. Lear, Jenny A. Westgate, Michi Kasai, et al. Parasympathetic activity is the key regulator of heart rate variability between decelerations during brief repeated umbilical cord occlusions in fetal sheep. In: American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 319.5 (Nov. 2020), R541–R550. issn: 0363-6119. doi: 10.
-1152/ajpregu.00186.2020 
+- [^23]: Christopher A. Lear, Jenny A. Westgate, Michi Kasai, et al. Parasympathetic activity is the key regulator of heart rate variability between decelerations during brief repeated umbilical cord occlusions in fetal sheep. In: American Journal of Physiology-Regulatory, Integrative and Comparative Physiology 319.5 (Nov. 2020), R541–R550. 
 - [^24]: C. Garabedian, J. De Jonckheere, L. Butruille, et al. Understanding fetal physiology and
 second line monitoring during labor. In: Journal of Gynecology Obstetrics and Human
-Reproduction 46.2 (Feb. 2017), pp. 113–117. issn: 24687847. doi: 10.1016/j.jogoh.
-2016.11.005 
+Reproduction 46.2 (Feb. 2017), pp. 113–117. 
 - [^25]: A. Ugwumadu. Are we (mis)guided by current guidelines on intrapartum fetal heart rate
-monitoring? Case for a more physiological approach to interpretation. In: BJOG: An International Journal of Obstetrics and Gynaecology 121.9 (2014), pp. 1063–1070. issn: 14710528.
-doi: 10.1111/1471-0528.12900 
+monitoring? Case for a more physiological approach to interpretation. BJOG: An International Journal of Obstetrics and Gynaecology 121.9 (2014), pp. 1063–1070. 
 - [^26]: Obianuju Nzelu. Human Factors: The Dirty Dozen in CTG misinterpretation. In: Global
-Journal of Reproductive Medicine 6.2 (2018). doi: 10 . 19080 / gjorm . 2018 . 06 .
-555683 
+Journal of Reproductive Medicine 6.2 (2018). 
 - [^27]: Royal College of Obstetricians and Gynaecologists. Each Baby Counts: 2020 Final Progress
 Report. March. London,UK: Royal College of Obstetricians and Gynaecologists, 2021 
 - [^28]: Emma R. Allanson, Robert C. Pattinson, Elizabeth A. Nathan, et al. “A before and after
 study of the impact on obstetric and perinatal outcomes following the introduction of an educational package of fetal heart rate monitoring education coupled with umbilical artery
 lactate sampling in a low resource setting labor ward in”. In: BMC Pregnancy and Childbirth
-19.1 (2019), pp. 1–8. issn: 14712393. doi: 10.1186/s12884-019-2552-8 
+19.1 (2019), pp. 1–8. 
