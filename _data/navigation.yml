@@ -4,8 +4,6 @@
   href: /
 - text: about
   href: /about/
-- text: team
-  href: /team/
 - text: clinical trial
   menu: # Dropdown menu (one level deep only)
   - text: study protocol 🇬🇧
