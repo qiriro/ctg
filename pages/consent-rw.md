@@ -3,7 +3,7 @@ title: Inyandiko yo kwemera kugira uruhare mu bushakashatsi ku igerageza rikorwa
 description: 
 background: 
 permalink: /consent-rw/
-toc: true
+toc: false
 ---
 
 Iyi nyandiko yo kwemera kugira uruhare mu bushakashatsi nta gahato igenewe abagore batwite bajya kwisumisha kuri bimwe mu bitaro byatoranijwe mu Rwanda; tukaba twifuza ko abo bagore bagira uruhare mu bushakashatsi turimo dukora ku mikorere y’imashini ikoranye ubwenge ku buryo itanga amakuru ako kanya yerekana uko umutima w’umwana ukiri mu nda ya nyina uba urimo utera (ni uburyo buzwi nka CTG) hagamijwe kunoza serivisi zo gufasha umugore uri ku nda no mu gihe cyo kubyara.

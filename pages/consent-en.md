@@ -3,7 +3,7 @@ title: Consent to participate in the clinical trial
 description: 
 background: 
 permalink: /consent-en/
-toc: true
+toc: false
 ---
 
 This Informed Consent Form is for pregnant women who attend a select number of hospitals in Rwanda and who we are inviting to participate in research on a study for an Intelligent Cardiotocography (CTG) with Real-time Alerts for an Improved Labor and Delivery. 
