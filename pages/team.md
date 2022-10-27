@@ -55,13 +55,13 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
+           <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg"
+            alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Ayako Kasai</h5>
-              <h6 class="subtitle mb-3">CEO, Spiker Ltd</h6>
-              <p>Founder & CEO of spiker ltd and E-gates, the first Japanese consulting in East Africa. Current lead of Africa strategic plan development for a major Japanese company, with eight years of experience in business and in negotiations with ten African countries</p>
+              <h6 class="subtitle mb-3">CEO, spiker ltd</h6>
             </div>
           </div>
         </div>
