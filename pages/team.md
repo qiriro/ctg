@@ -53,11 +53,11 @@ permalink: /team/
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
-        <h3 class="mb-3">Experienced Team</h3>
+        <h3 class="mb-3">A multidisciplinary international team</h3>
         <h6 class="subtitle">Experienced international team from five countries (Japan, Rwanda, India, Kenya and China)</h6>
       </div>
       <figure class="figure">
-        <img src="{{site.url}}{{ site.baseurl}}/static_files/people/team-members-revised" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+        <img src="{{site.url}}{{ site.baseurl}}/static_files/people/team-members-revised" class="figure-img img-fluid rounded">
       </figure>
    </div>
     <div class="row">
