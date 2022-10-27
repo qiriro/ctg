@@ -9,7 +9,7 @@
 - text: consent
   menu: # Dropdown menu (one level deep only)
   - text: consent 🇬🇧
-    href: /consent/
+    href: /consent-en/
   - text: consent 🇷🇼
     href: /consent-rw/
   - text: information sheet 🇬🇧
