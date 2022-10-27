@@ -1,13 +1,13 @@
 ---
-title: Inyemezo
+title: Inyandiko yo kwemera kugira uruhare mu bushakashatsi ku igerageza rikorwa mu rwego rw’ubuvuzi
 description: 
 background: 
 permalink: /consent-rw/
 toc: true
 ---
-# Inyandiko yo kwemera kugira uruhare mu bushakashatsi ku igerageza rikorwa mu rwego rw’ubuvuzi
 
 Iyi nyandiko yo kwemera kugira uruhare mu bushakashatsi nta gahato igenewe abagore batwite bajya kwisumisha kuri bimwe mu bitaro byatoranijwe mu Rwanda; tukaba twifuza ko abo bagore bagira uruhare mu bushakashatsi turimo dukora ku mikorere y’imashini ikoranye ubwenge ku buryo itanga amakuru ako kanya yerekana uko umutima w’umwana ukiri mu nda ya nyina uba urimo utera (ni uburyo buzwi nka CTG) hagamijwe kunoza serivisi zo gufasha umugore uri ku nda no mu gihe cyo kubyara.
+
 Wowe watoranijwe nk’umwe mu bashobora kugira uruhare muri ubu bushakashatsi kubera ko bigaragara ko ufite ubuzima bwiza ukaba udatwise impanga kandi byibura ugejeje ku myaka 18.  
 Ubu bushakashatsi bwemewe na Komite ishinzwe uburenganzira bw’abakorerwaho ubushakashatsi. Ikindi kandi ni uko iri gerageza rizakorwa hubahijwe ibikubiye mu Masezerano ya Helsinki ndese no ku mabwiriza arebana n’ ibikorwa biboneye mu by’ubuvuzi. Umuganga uzakora ubu bushakashatsi azahembwa n’umuterankunga kugira ngo akore iri gerageza mu rwego rw’ubuvuzi. 
 
@@ -15,13 +15,16 @@ Ubu bushakashatsi bwemewe na Komite ishinzwe uburenganzira bw’abakorerwaho ubu
 Ubu bushakashatsi bugamije gusobanukirwa neza n’imikorere yihariye y’imashini yo mu rwego rwa CTG iherutse gukorwa mu minsi ya vuba na Spiker Ltd. Iyi mashini nshyashya ikoze mu buryo bugezweho ikaba ikoresha ubwenge bumeze nk’ubw’umuntu ku buryo ikora isesengura ry’ibizami bya CTG ako kanya ikimara kwakira amakuru ikeneye gusesengura nta mwanya na muo unyuzemo. Ni imashini kandi inoza imisobanukirwe y’amashusho atangwa n’ubu buryo bwa CTG igahita iha amakuru abakora ibikorwa by’ubuvuzi ku birebana n’uko ubuzima bw’umwana uri mu nda ya nyina buhagaze.
 
 ## Kwitabira ubushakashatsi no guhakarika umuntu akabuvamo 
-Kwitabira ubu bushakashatsi bikorwa ni ku bwende bwawe nta gahato na gake karimo. Mu gihe waba wemeye kugira uruhare muri ubu bushakashatsi, ushobora guhagarika ukabuvamo igihe icyo ari cyo cyose kandi nta bihano cyangwa ingaruka iyo ari yo yose byakugiraho. Mu gihe kandi waba uhisemo kutagira uruhare muri ubu bushakashatsi kuri iri gerageza rizaba rikorwa, nta ngaruka byakugiraho ku birebana n’uburyo usanzwe witabwaho n’ibitaro ubwo bushakashatsi buzaba bubemeramo.  Uhagarariye ubushakashatsi ndetse n’itsinda bakorana muri ubu bushakashatsi kandi ntabwo bashobora gutuma uburenganzira bwawe mu kwivuza ndetse no ku kubona izindi serivisi usanzwe wemerewe buhungabana. 
+Kwitabira ubu bushakashatsi bikorwa ni ku bwende bwawe nta gahato na gake karimo. Mu gihe waba wemeye kugira uruhare muri ubu bushakashatsi, ushobora guhagarika ukabuvamo igihe icyo ari cyo cyose kandi nta bihano cyangwa ingaruka iyo ari yo yose byakugiraho. Mu gihe kandi waba uhisemo kutagira uruhare muri ubu bushakashatsi kuri iri gerageza rizaba rikorwa, nta ngaruka byakugiraho ku birebana n’uburyo usanzwe witabwaho n’ibitaro ubwo bushakashatsi buzaba bubemeramo. 
+
+Uhagarariye ubushakashatsi ndetse n’itsinda bakorana muri ubu bushakashatsi kandi ntabwo bashobora gutuma uburenganzira bwawe mu kwivuza ndetse no ku kubona izindi serivisi usanzwe wemerewe buhungabana. 
 
 ## Uko ubushakashatsi buzakorwa 
 Imashini yihariye yakozwe na Spiker Ltd izashyirwa mu bitaro bizaba bikorerwamo igeregeza noneho abakozi bakora mu by’ubuzima bayikoreshe bubahiriza amategeko n’amabwiriza asanzwe akurikizwa mu bitaro ku birebana no gukoresha uburyo bwa CTG mu gihe umugore atwite no mu gihe ari ku nda. Uburyo bwa CTG buzifashishwa bufatira icyarimwe amakuru arebana n’uburyo umutima w’umwana uri mu nda ugenda utera (FHR) ndetse n’uburyo ibise biza. Ya mashini ya CTG muri ako kanya izaba isesengura amakuru yakiriye ari nako itanga amakuru arebana n’imiterere y’ubuzima bw’umwana uri mu nda. Muri gahunda z’iri gerageza rikorwa muri ubu bushakashatsi, Itsinda ry’Abaganga mu Buyapani ryitwa ‘Mother Key Medical Group’ rizaba ririmo rireba imikorere ya ya mashini bifashishije iya kure. 
 
 ## Ingaruka n’Ibindi byabangamira umuntu muri ubu bushakashatsi 
 Ntabwo hari ikintu gishobora kubangamira umuntu giteganywa ko cyaterwa n’igerageza mu by’ubuvuzi rizakorwa muri ubu bushakashatsi, bivuze ko nta ngaruka zigaragara ubushakashatsi bwateza ababwitabiriye. Hari ukubangamirwa ariko kuri ku gipimo cyo hasi cyane gushobora guterwa n’ikoreshwa risanzwe ry’ubu buryo bwa CTG mu gihe bagushyize kun da ibikoresho bituma hagaragara uko ubuzima mu nda buhagaze ndetse n’imikandara yifashishwa. 
+
 Mu gihe ubu bushakashatsi burimo bukorwa waba ubonye ikintu kidasanzwe kikubayeho, ugomba guhita umenyesha umuganga uzaba ukora ubu bushakashatsi; bishobora kuba nk’ikintu cyagukomeretsa cyangwa ikindi kibazo waba uketse ko gifitanye isano n’ibyaba bigukorerwaho. Uko ubuzima bwawe busanzwe bumeze bishobora gukomeza bityo ariko hari ubwo habaho impinduka. Mu rwego rw’ubushakashatsi nk’ubu, hari ubwo hashobora kuba hari ikibazo cyaba ku babukorerwa ariko wenda kikaba kitari cyamenyekana. Tuzakomeza kugenda tuguha amakuru ku kintu cyose cy’ingenzi gishobora kugira ingaruka iyi n’iyi ku migendekere y’ubu bushakashatsi.  
 
 ## Ubwishingizi  

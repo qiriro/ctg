@@ -1,5 +1,5 @@
 ---
-title: Participant information sheet
+title: Information sheet
 description: 
 background: 
 permalink: /information-sheet-en/

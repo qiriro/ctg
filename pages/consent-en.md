@@ -50,7 +50,8 @@ Your participation in the study can be terminated for any of the following reaso
 - The sponsor disbands the group you are in for an unspecified reason.
 
 # Contacts for answers relating to this clinical trial
-For medical information on this study, please contact Dr. Dusingizimana Vincent at 078-821-4231. For other general questions related to the working principle of the CTG machine and other information related to this clinical trial, please do not hesitate to contact Dr. Kizito Nkurikiyeyezu at 078-714-7380.  
+For medical information on this study, please contact Dr. Dusingizimana Vincent at 078-821-4231. For other general questions related to the working principle of the CTG machine and other information related to this clinical trial, please do not hesitate to contact Dr. Kizito Nkurikiyeyezu at 078-714-7380.
+  
 If you have questions, concerns, or complaints about your rights as a research participant, please contact the chairperson of Rwanda National Ethics Committee, Dr. Jean Baptiste Mazarati (Tel: 0788 309 807) or Assistant Prof David Tumusiime (07887493948)
 
 # Statement of consent 
