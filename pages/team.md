@@ -122,7 +122,7 @@ permalink: /team/
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Kizito Nkurikiyeyezu</h5>
+              <h5 class="mt-4 font-weight-medium mb-0">Kizito Nku</h5>
               <h6 class="subtitle mb-3">Principal Investigator</h6>
             </div>
           </div>
