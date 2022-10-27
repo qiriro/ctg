@@ -71,18 +71,22 @@ The device is pluggable into an existing CTG and uses the International Federati
 The device uses advanced signal processing and segmentation of the fetal heart rate feature and assesses their correlation with the uterine contradiction in order to help the medical personnel quickly assess and diagnose issues due to fetal distress. The CDS will analyze the raw CTG traces and compute several parameters (e.g., acceleration and deceleration due to the uterine contraction or movements). These characteristics allow to perform common human CTG analysis (e.g., FHR baseline recognition, FHR variability, and acceleration rate). These features will be integrated into an Artificial Intelligence (AI) model to replicate existing guidelines (e.g., the International Federation of Gynecology and Obstetrics) on CTG interpretation. Moreover, the CDS system also uses advanced machine learning logarithms to detect subtle physiological changes in a baby’s heartbeat that a visual inspection cannot detect. Finally, it will alert and provide evidence-based recommendations when abnormal cases are detected.
 
 
-## Bibliography 
+## Bibliography  
 
-- [^1]: World Health Organization, Trends in maternal mortality 2000 to 2017 estimates by WHO,
-UNICEF, UNFPA, World Bank Group and the United Nations Population Division World Health Organization, 2019.
+- [^1]: World Health Organization. Trends in maternal mortality 2000 to 2017 estimates by WHO UNICEF, UNFPA, World Bank Group and the United Nations Population Division World Health Organization, 2019.
+
 - [^2]: N. Prata, P. Passano, A. Sreenivas, et al., Maternal mortality in developing countries: Challenges in scaling-up priority interventions. Women’s Health, vol. 6, no. 2, pp. 311–327,
 2010.
+
 - [^3]: United Nations, Work of the Statistical Commission pertaining to the 2030 Agenda for
 Sustainable Development. Global indicator framework for the Sustainable Development
 Goals and targets of the 2030 Agenda for Sustainable Development, vol. 11371, pp. 4–25, Jul.
 2017.
+
 - [^4]: R. Mash, A. Howe, O. Olayemi, et al., Reflections on family medicine and primary healthcare in sub-Saharan Africa,” BMJ Global Health, vol. 3, no. Suppl 3, pp. 1–3, May 2018.
+
 - [^5]: WHO, WHO recommended interventions for improving maternal and newborn health- integrated management of pregnancy and childbirth. World Health Organization, 2009.
+
 - [6]: World Health Organization. Ethics and governance of artificial intelligence for health. World Health Organization, Jun. 2021.
 - [7]:  E. J. Topol. High-performance medicine- the convergence of human and artificial intelligence. Nature Medicine, vol. 25, no. 1, pp. 44–56, Jan. 2019.
 - [^8]: A. Esteva, B. Kuprel, R. A. Novoa, et al.,. Dermatologist-level classification of skin cancer with deep neural networks. Nature, vol. 542, no. 7639, pp. 115–118, Feb. 2017.
