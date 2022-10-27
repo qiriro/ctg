@@ -122,8 +122,22 @@ permalink: /team/
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Dr. Kizito Nkurikiyeyezu</h5>
-              <h6 class="subtitle mb-3">Principal Investigator & Researcher</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">Kizito Nkurikiyeyezu</h5>
+              <h6 class="subtitle mb-3">Principal Investigator</h6>
+            </div>
+          </div>
+        </div>
+        <!-- Row -->
+         <!-- Row -->
+        <div class="row">
+          <div class="col-md-12">
+             <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" 
+            alt="wrapkit" class="img-fluid rounded-circle" />
+          </div>
+          <div class="col-md-12 text-center">
+            <div class="pt-2">
+              <h5 class="mt-4 font-weight-medium mb-0">Ayako Kasai</h5>
+              <h6 class="subtitle mb-3">CEO, spiker ltd</h6>
             </div>
           </div>
         </div>
