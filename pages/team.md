@@ -5,6 +5,7 @@ nav: false
 description: Who we are
 permalink: /team/
 ---
+<!-- https://jsfiddle.net/wrappixel/hpcqbxd8/ -->
 
 <style type="text/css">
   @import url(//fonts.googleapis.com/css?family=Montserrat:300,500);
@@ -68,13 +69,6 @@ permalink: /team/
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
               <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
             </div>
           </div>
         </div>
@@ -92,13 +86,6 @@ permalink: /team/
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
               <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
             </div>
           </div>
         </div>
@@ -116,13 +103,6 @@ permalink: /team/
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
               <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
             </div>
           </div>
         </div>
@@ -140,13 +120,6 @@ permalink: /team/
             <div class="pt-2">
               <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
               <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
             </div>
           </div>
         </div>
