@@ -84,7 +84,7 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/daisuke.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
@@ -296,7 +296,7 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/daisuke.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
