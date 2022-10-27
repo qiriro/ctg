@@ -49,32 +49,19 @@ permalink: /team/
 </style>
 
 <div class="py-5 team4">
-  <div class="container">
-    <div class="row justify-content-center mb-4">
-      <div class="col-md-7 text-center">
-        <h3 class="mb-3">Experienced & Professional Team</h3>
-        <h6 class="subtitle">You can relay on our amazing features list and also our customer services will be great experience for you without doubt and in no-time</h6>
-      </div>
-    </div>
     <div class="row">
       <!-- column  -->
       <div class="col-lg-3 mb-4">
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t1.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
-              <p>You can relay on our amazing features list and also our customer services will be great experience.</p>
-              <ul class="list-inline">
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-facebook"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-twitter"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-instagram"></i></a></li>
-                <li class="list-inline-item"><a href="#" class="text-decoration-none d-block px-1"><i class="icon-social-behance"></i></a></li>
-              </ul>
+              <h5 class="mt-4 font-weight-medium mb-0">Ayako Kasai</h5>
+              <h6 class="subtitle mb-3">CEO, Spiker Ltd</h6>
+              <p>Founder & CEO of spiker ltd and E-gates, the first Japanese consulting in East Africa. Current lead of Africa strategic plan development for a major Japanese company, with eight years of experience in business and in negotiations with ten African countries</p>
             </div>
           </div>
         </div>
