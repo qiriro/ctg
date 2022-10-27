@@ -1,5 +1,5 @@
 ---
-title: consent 🇷🇼
+title: Inyemezo
 description: 
 background: 
 permalink: /consent-rw/
