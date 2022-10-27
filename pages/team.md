@@ -57,7 +57,7 @@ permalink: /team/
         <h6 class="subtitle">Experienced international team from five countries (Japan, Rwanda, India, Kenya and China)</h6>
       </div>
       <figure class="figure">
-        <img src="{{site.url}}{{ site.baseurl}}/static_files/people/team-members-revised" class="figure-img img-fluid rounded">
+        <img src="{{site.url}}{{ site.baseurl}}/static_files/people/team-members-revised.jpeg" class="figure-img img-fluid rounded">
       </figure>
    </div>
     <div class="row">
