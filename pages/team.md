@@ -57,7 +57,7 @@ permalink: /team/
         <h6 class="subtitle">Seasoned, professional, experienced international team from 5 different countries on three continents</h6>
       </div>
       <figure class="figure">
-        <img src="{{site.url}}{{ site.baseurl}}/static_files/people/team-members.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+        <img src="{{site.url}}{{ site.baseurl}}/static_files/people/team-members-revised" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
       </figure>
    </div>
     <div class="row">
