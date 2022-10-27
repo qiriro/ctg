@@ -54,12 +54,13 @@ permalink: /team/
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
         <h3 class="mb-3">A multidisciplinary international team</h3>
-        <h6 class="subtitle">Experienced international team from five countries (Japan, Rwanda, India, Kenya and China)</h6>
+        <h6 class="subtitle">Experienced international team from five countries <br>(Japan, Rwanda, India, Kenya and China)</h6>
       </div>
       <figure class="figure">
         <img src="{{site.url}}{{ site.baseurl}}/static_files/people/team-members-revised.jpeg" class="figure-img img-fluid rounded">
       </figure>
    </div>
+   <hr>
     <div class="row">
       <!-- column  -->
       <div class="col-lg-3 mb-4">
@@ -129,6 +130,7 @@ permalink: /team/
         </div>
       </div>
     </div>
+    <hr>
    <!-- ----------new row ------------------- -->
 <div class="row">
       <!-- column  -->
