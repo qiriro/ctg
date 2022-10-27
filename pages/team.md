@@ -53,8 +53,8 @@ permalink: /team/
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
-        <h3 class="mb-3">Experienced & International Team</h3>
-        <h6 class="subtitle">Seasoned, professional, experienced international team from 5 different countries</h6>
+        <h3 class="mb-3">Experienced Team</h3>
+        <h6 class="subtitle">Seasoned, professional, experienced international team from 5 different countries on three continents</h6>
       </div>
     </div>
     <div class="row">
