@@ -3,7 +3,7 @@ title: Amakuru agenewe abitabira ubushakashatsi
 description: 
 background: 
 permalink: /information-sheet-rw/
-toc: true
+toc: false
 ---
 
 Fata akanya ko gusoma ibyanditse muri iyi nyandiko kandi ubaze ibibazo niba hari icyo utumva. 
