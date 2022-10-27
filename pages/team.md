@@ -66,12 +66,13 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t1.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+             <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" 
+            alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">Ayako Kasai, MBA</h5>
+              <h6 class="subtitle mb-3">CEO, spiker ltd</h6>
             </div>
           </div>
         </div>
@@ -83,12 +84,12 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t2.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+          <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg"alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">Dr. Daisuke Sugimoto</h5>
+              <h6 class="subtitle mb-3">Co-funder, spiker ltd</h6>
             </div>
           </div>
         </div>
@@ -100,12 +101,12 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t3.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">Shoko Kanehara</h5>
+              <h6 class="subtitle mb-3">CFO, spiker ltd</h6>
             </div>
           </div>
         </div>
@@ -117,12 +118,12 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="https://www.wrappixel.com/demos/ui-kit/wrapkit/assets/images/team/t4.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Michael Doe</h5>
-              <h6 class="subtitle mb-3">Property Specialist</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">Dr. Kizito Nkurikiyeyezu</h5>
+              <h6 class="subtitle mb-3">Principal Investigator & Researcher</h6>
             </div>
           </div>
         </div>
