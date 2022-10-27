@@ -8,7 +8,7 @@
   href: /about/
 - text: study protocols
   href: /protocols/
-- text: consent
+- text: clinical trial
   menu: # Dropdown menu (one level deep only)
   - text: consent 🇬🇧
     href: /consent-en/
