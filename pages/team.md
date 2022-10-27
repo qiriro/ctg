@@ -53,7 +53,7 @@ permalink: /team/
   <div class="container">
     <div class="row justify-content-center mb-4">
       <div class="col-md-7 text-center">
-        <h3 class="mb-3">A multidisciplinary international team</h3>
+        <h4 class="mb-3">A multidisciplinary international team</h4>
         <h6 class="subtitle">Experienced international team from five countries <br>(Japan, Rwanda, India, Kenya and China)</h6>
       </div>
       <figure class="figure">
