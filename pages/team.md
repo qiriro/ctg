@@ -56,10 +56,10 @@ permalink: /team/
         <h3 class="mb-3">Experienced Team</h3>
         <h6 class="subtitle">Seasoned, professional, experienced international team from 5 different countries on three continents</h6>
       </div>
-<figure class="figure">
-  <img src="{{site.url}}{{ site.baseurl}}/static_files/people/team-members.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
-</figure>
-    </div>
+      <figure class="figure">
+        <img src="{{site.url}}{{ site.baseurl}}/static_files/people/team-members.png" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+      </figure>
+   </div>
     <div class="row">
       <!-- column  -->
       <div class="col-lg-3 mb-4">
@@ -129,5 +129,75 @@ permalink: /team/
         </div>
       </div>
     </div>
+    <div class="row">
+      <!-- column  -->
+      <div class="col-lg-3 mb-4">
+        <!-- Row -->
+        <div class="row">
+          <div class="col-md-12">
+             <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" 
+            alt="wrapkit" class="img-fluid rounded-circle" />
+          </div>
+          <div class="col-md-12 text-center">
+            <div class="pt-2">
+              <h5 class="mt-4 font-weight-medium mb-0">Ayako Kasai</h5>
+              <h6 class="subtitle mb-3">CEO, spiker ltd</h6>
+            </div>
+          </div>
+        </div>
+        <!-- Row -->
+      </div>
+      <!-- column  -->
+      <!-- column  -->
+      <div class="col-lg-3 mb-4">
+        <!-- Row -->
+        <div class="row">
+          <div class="col-md-12">
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
+          </div>
+          <div class="col-md-12 text-center">
+            <div class="pt-2">
+              <h5 class="mt-4 font-weight-medium mb-0">Daisuke Sugimoto</h5>
+              <h6 class="subtitle mb-3">Co-founder, spiker ltd</h6>
+            </div>
+          </div>
+        </div>
+        <!-- Row -->
+      </div>
+      <!-- column  -->
+      <!-- column  -->
+      <div class="col-lg-3 mb-4">
+        <!-- Row -->
+        <div class="row">
+          <div class="col-md-12">
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
+          </div>
+          <div class="col-md-12 text-center">
+            <div class="pt-2">
+              <h5 class="mt-4 font-weight-medium mb-0">Shoko Kanehara</h5>
+              <h6 class="subtitle mb-3">CFO, spiker ltd</h6>
+            </div>
+          </div>
+        </div>
+        <!-- Row -->
+      </div>
+      <!-- column  -->
+      <!-- column  -->
+      <div class="col-lg-3 mb-4">
+        <!-- Row -->
+        <div class="row">
+          <div class="col-md-12">
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/kizito.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
+          </div>
+          <div class="col-md-12 text-center">
+            <div class="pt-2">
+              <h5 class="mt-4 font-weight-medium mb-0">Kizito Nku</h5>
+              <h6 class="subtitle mb-3">Principal Investigator</h6>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div> 
   </div>
 </div>
+
