@@ -192,7 +192,7 @@ permalink: /team/
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Dr Vincent D. MD, MMed</h5>
+              <h5 class="mt-4 font-weight-medium mb-0">Dr Vincent D. </h5>
               <h6 class="subtitle mb-3">Co-Investigator</h6>
             </div>
           </div>
@@ -212,8 +212,8 @@ permalink: /team/
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Ayako Kasai</h5>
-              <h6 class="subtitle mb-3">CEO, spiker ltd</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">Shuichi Yasumura</h5>
+              <h6 class="subtitle mb-3">CTO, spiker ltd</h6>
             </div>
           </div>
         </div>
@@ -229,8 +229,8 @@ permalink: /team/
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Daisuke Sugimoto</h5>
-              <h6 class="subtitle mb-3">Co-founder, spiker ltd</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">Swapnil Athawale</h5>
+              <h6 class="subtitle mb-3">TODO: Add title</h6>
             </div>
           </div>
         </div>
@@ -242,12 +242,12 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/ayako.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/lambert.jpeg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Shoko Kanehara</h5>
-              <h6 class="subtitle mb-3">CFO, spiker ltd</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">Lambert Rulindana</h5>
+              <h6 class="subtitle mb-3">IoT engineer, spiker ltd</h6>
             </div>
           </div>
         </div>
@@ -263,7 +263,7 @@ permalink: /team/
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Kizito Nku</h5>
+              <h5 class="mt-4 font-weight-medium mb-0">Dr. Kizito Nku</h5>
               <h6 class="subtitle mb-3">Principal Investigator</h6>
             </div>
           </div>
