@@ -136,13 +136,13 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-             <img src="{{site.url}}{{ site.baseurl}}/static_files/people/hiroshi.png" 
+             <img src="{{site.url}}{{ site.baseurl}}/static_files/people/kizito.jpg" 
             alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Dr. Hiroshi Hatayama</h5>
-              <h6 class="subtitle mb-3">Advisor, spiker ltd</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">John Smith</h5>
+              <h6 class="subtitle mb-3">Engineer, spiker ltd</h6>
             </div>
           </div>
         </div>
@@ -154,12 +154,12 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/maeda.png" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/kizito.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Dr. Eisaku Maeda</h5>
-              <h6 class="subtitle mb-3">Advisor, spiker ltd</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">John Smith</h5>
+              <h6 class="subtitle mb-3">Engineer, spiker ltd</h6>
             </div>
           </div>
         </div>
@@ -171,12 +171,12 @@ permalink: /team/
         <!-- Row -->
         <div class="row">
           <div class="col-md-12">
-            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/shuzo.png" alt="wrapkit" class="img-fluid rounded-circle" />
+            <img src="{{site.url}}{{ site.baseurl}}/static_files/people/kizito.jpg" alt="wrapkit" class="img-fluid rounded-circle" />
           </div>
           <div class="col-md-12 text-center">
             <div class="pt-2">
-              <h5 class="mt-4 font-weight-medium mb-0">Dr. Masaki Shuzo</h5>
-              <h6 class="subtitle mb-3">Advisor, spiker ltd</h6>
+              <h5 class="mt-4 font-weight-medium mb-0">John Smith</h5>
+              <h6 class="subtitle mb-3">Researcher, spiker ltd</h6>
             </div>
           </div>
         </div>
