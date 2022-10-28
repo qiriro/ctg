@@ -14,6 +14,25 @@ The clinical trial aims to evaluate the performance of a novel intelligent and A
 
 The device is fully functional. The protocols of the clinical trial of this devices has been approved by the [Rwanda National Ethic Committee]({{ site.baseurl }}{% link /static_files/pdf/01-ethical-clearance.pdf %}) (Ethical Clearance No 29/RNEC/2022) and the clinical trial further approved by the [Rwanda Food and Drug Administration (FDA)]({{ site.baseurl }}{% link /static_files/pdf/02-clinical-trial-approval.pdf %}) to be installed and tested in Rwandan hospitals. 
 
+## WHY THE DEVICE
+
+Intrapartum hypoxia (i.e., oxygen deficiency during birth)—commonly known as birth asphyxia—
+emerges before, during, or after birth when a baby does not receive an adequate amount of
+oxygen. Intrapartum-related disorders are responsible for 25% of the world’s neonatal death and
+contribute to almost 50% of the 2.6 million third trimester stillbirths and are a significant burden to healthcare in low-income countries. In 2010, for example, 1.15 million infants developed neonatal brain damage due to some intrapartum hypoxic events, 90% of these complications taking place in low and middle-income countries.
+
+In most hospital in Rwanda, intrapartum cardiotocography (CTG) is often used during childbirth
+to monitor the heart rate of the baby and the mother’s uterine contractions. A CTG graph can help to evaluate the baby’s well-being and identify babies at risk of hypoxia during labor and to decide whether the baby will be delivered by instrumental vaginal birth or by cesarean section.
+
+<figure class="figure">
+  <img src="{{site.url}}{{ site.baseurl}}/static_files/images/ctg-output.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <figcaption class="figure-caption">A typical output of a CTG machine <br> A CTG trace calculate heart rate from fetal heart motion determined by ultrasound, and uterine contractions are measured by a tocodynamometer. In this figure, (A) represents the fetal heartbeat,  the (B) indicator shows the movements felt by mother (triggered by pressing a button), (C) shows the fetal movement and (D) show the uterine contractions </figcaption>
+</figure>
+
+During childbirth, obstetricians visually examine the morphological variations in CTG traces to identify the health status of a fetus. This approach, however, is unreliable and has poor reproducibility because the interpretation is often subjective and varies from one obstetrician to another. When there is a misinterpretations, out of an abundance of caution, obstetricians often perform unnecessary operative deliveries. Moreover, the fetus’s heart rate variability is influenced by the brain’s parasympathetic and sympathetic activities and its patterns are affected by several other stimuli such as the uterine contractions. Consequently, intrapartum fetal monitoring must also consider a physiological viewpoint instead of just focusing on the morphological appearance of the fetal heart rate. CTG traces contain complex information about the baby’s condition and identification of the baby’s hypoxemia (e.g., low blood oxygen). Thus, proper CTG interpretation would require the medical personnel to have a good understanding of the physiology of the fetus during childbirth and other compensatory mechanisms of the fetus. Visually analyzing CTG traces cannot reveal such important diagnostic information and its appropriate interpretation.
+
+Finally, several human factors such as distraction, tiredness, pressure, and stress complicate CTG interpretation and may lead to fatal outcomes. For example, the Royal College of Obstetricians and Gynecologists’ report on perinatal mortality in the UK shows that 66% of stillbirths, neonatal deaths, and brain injuries of term babies in labor in 2017 are due to errors of interpretation of CTG and failure to act upon suspicious or pathological CTG. In several cases, when there is an ambiguity in CTG interpretation, obstetricians often resort to unnecessary emergency cesarean sections instead of waiting for a natural vaginal birth.
+
 ## EXPECTED IMPACT OF THE DEVICE
 The device is expected to provide the following impacts:
 

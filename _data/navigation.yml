@@ -6,10 +6,10 @@
   href: /team/
 - text: about the device
   href: /about/
-- text: study protocols
-  href: /protocols/
 - text: clinical trial
   menu: # Dropdown menu (one level deep only)
+  - text: study protocols
+    href: /protocols/
   - text: consent 🇬🇧
     href: /consent-en/
   - text: consent 🇷🇼
