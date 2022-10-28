@@ -6,8 +6,8 @@ toc: true
 permalink: /about/
 ---
 
-# BACKGROUND & RATIONALE
 
+## BACKGROUND & RATIONALE
 In all public hospitals in Rwanda, intrapartum cardiotocography (CTG) is used during childbirth to monitor the heart rate of the baby and the mother's uterine contractions. A CTG graph can help to evaluate the baby's well-being and identify babies at risk of hypoxia during labor and to decide whether the baby will be delivered by instrumental vaginal birth or by cesarean section.
 
 During childbirth, obstetricians visually examine the morphological variations in CTG traces to identify the health status of a fetus. This approach, however, is unreliable and has poor reproducibility because the interpretation is often subjective and varies from one obstetrician to another. Moreover, the fetus's heart rate variability is influenced by the brain's parasympathetic and sympathetic activities and its patterns are affected by several other stimuli such as uterine contractions. Consequently, intrapartum fetal monitoring must also consider a physiological viewpoint instead of just focusing on the morphological appearance of the fetal heart rate. CTG traces contain complex information about the baby's condition and identification of the baby's hypoxemia (e.g., low blood oxygen). Thus, proper CTG interpretation requires the medical personnel to have a good understanding of the physiology of the fetus during childbirth and other compensatory mechanisms of the fetus. Finally, several human factors such as distraction, tiredness, pressure, and stress complicate CTG interpretation and may lead to fatal outcomes. For example, the Royal College of Obstetricians and Gynecologists' report on perinatal mortality in the UK shows that 66% of stillbirths, neonatal deaths, and brain injuries of term babies in labor in 2017 are due to errors of interpretation of CTG and failure to act upon suspicious or pathological CTG.
