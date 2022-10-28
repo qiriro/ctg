@@ -2,7 +2,7 @@
 title: our solution
 description: 
 background: 
-toc: true
+toc: false
 permalink: /about/
 ---
 
