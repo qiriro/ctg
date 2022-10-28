@@ -36,17 +36,18 @@ Finally, several human factors such as distraction, tiredness, pressure, and str
 ## EXPECTED IMPACT OF THE DEVICE
 The device is expected to provide the following impacts:
 
-### Reduction of unnecessary cesarean section by 20% in the first year and by 50% reduction in the next 5 years
-
-Poor CTG interpretation leads to a high false-positive rate of pathological CTG, which,  out of an abundance of caution, obstetricians perform unnecessary emergency intrapartum cesarean sections for fetal distress. Recent studies show that proper CTG interpretation and its use in conjunction with fetal ECG ST segment analysis (STAN) lead to a statistically significant reduction of intrapartum emergency cesarean section and the rate of hypoxic-ischaemic encephalopathy (HIE) due to CTG misinterpretation can be reduced by 50%. In our pilot test, it was found that the device achieved more than 3,000 cases of APGAR (Appearance, Pulse, Grimace, Activity, and Respiration) score greater than 8, and no unnecessary cesarean section was performed when using this device. 
-### Reduce risks of neonatal seizures by 20% in the first year and by 50% in the next five years**. 
-
-Neonatal seizures are sudden abnormal modifications of a baby's electrographic activity during the neonatal period. It is estimated that neonatal seizures occur in 3 per 1000 live births and are much higher in preterm infants. Neonatal seizure is particularly high in rural low and middle-income countries. For instance, in Kenya's rural districts, neonatal seizures are associated with a 22.5% mortality rate, which is much higher compared to developed countries. Studies conducted around the world show that continuous use of CTG monitoring in labor halved the risk of neonatal seizures, and this reduction is consistent across several subgroups.
-
-### To reduce birth asphyxia by 10% in the first year and by 20% in the next five years
-
-Birth asphyxia (i.e., the insufficient flow of blood or oxygen exchange to or/and from the fetus before, during, or after birth) affects 23% of births worldwide and up to 39% of births at district hospitals in Rwanda. Birth asphyxia is associated with cerebral palsy and long-term impairments such as learning difficulties. The developed device will provide a rapid and accurate interpretation of a cardiotocograph (CTG) during childbirth; thus, allowing rapid identification of pathological  CTG that might be associated with birth hypoxia and asphyxia. This will allow the medical personnel to take timely action and appropriate to prevent birth asphyxia.
-
 ### To reduce the time and training required to properly interpret a CTG graph
 
 The device is designed to automatically streamline operations and CTG measures (e.g., risk definition, contractions, baseline rate, variability, accelerations, decelerations, and overall impression) that are required to properly interpret a CTG graph. In our test, it was shown that it takes less than 1 days for a novice medical personnel to learn how to independently interpret a CTG when he/she used our device. 
+
+### Reduction of unnecessary cesarean section 
+
+Poor CTG interpretation leads to a high false-positive rate of pathological CTG, which,  out of an abundance of caution, obstetricians perform unnecessary emergency intrapartum cesarean sections for fetal distress. Recent studies show that proper CTG interpretation and its use in conjunction with fetal ECG ST segment analysis (STAN) lead to a statistically significant reduction of intrapartum emergency cesarean section and the rate of hypoxic-ischaemic encephalopathy (HIE) due to CTG misinterpretation can be reduced by 50%. In our pilot test, it was found that the device achieved more than 3,000 cases of APGAR (Appearance, Pulse, Grimace, Activity, and Respiration) score greater than 8, and no unnecessary cesarean section was performed when using this device. 
+
+### Reduce risks of neonatal seizures 
+
+Neonatal seizures are sudden abnormal modifications of a baby's electrographic activity during the neonatal period. It is estimated that neonatal seizures occur in 3 per 1000 live births and are much higher in preterm infants. Neonatal seizure is particularly high in rural low and middle-income countries. For instance, in Kenya's rural districts, neonatal seizures are associated with a 22.5% mortality rate, which is much higher compared to developed countries. Studies conducted around the world show that continuous use of CTG monitoring in labor halved the risk of neonatal seizures, and this reduction is consistent across several subgroups.
+
+### To reduce birth asphyxia 
+
+Birth asphyxia (i.e., the insufficient flow of blood or oxygen exchange to or/and from the fetus before, during, or after birth) affects 23% of births worldwide and up to 39% of births at district hospitals in Rwanda. Birth asphyxia is associated with cerebral palsy and long-term impairments such as learning difficulties. The developed device will provide a rapid and accurate interpretation of a cardiotocograph (CTG) during childbirth; thus, allowing rapid identification of pathological  CTG that might be associated with birth hypoxia and asphyxia. This will allow the medical personnel to take timely action and appropriate to prevent birth asphyxia.
