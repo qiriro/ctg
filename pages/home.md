@@ -21,6 +21,15 @@ emerges before, during, or after birth when a baby does not receive an adequate 
 oxygen. Intrapartum-related disorders are responsible for 25% of the world’s neonatal death and
 contribute to almost 50% of the 2.6 million third trimester stillbirths and are a significant burden to healthcare in low-income countries. In 2010, for example, 1.15 million infants developed neonatal brain damage due to some intrapartum hypoxic events, 90% of these complications taking place in low and middle-income countries.
 
+<figure class="figure">
+  <img src="static_files/images/ctg-machine-example.jpg" class="figure-img img-fluid rounded">
+</figure>
+
+<figure class="figure">
+  <img src="static_files/images/ctg-in-use.jpeg" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption">An example of a how a CTG is used during childbirth. Adhesive electrodes are applied to the maternal abdomen connected by wires to a storage device that produces a recording of the fetal heart rate trace and uterine activity. Credits: Monica Healthcare Limited].</figcaption>
+</figure>
+
 In most hospital in Rwanda, intrapartum cardiotocography (CTG) is often used during childbirth
 to monitor the heart rate of the baby and the mother’s uterine contractions. A CTG graph can help to evaluate the baby’s well-being and identify babies at risk of hypoxia during labor and to decide whether the baby will be delivered by instrumental vaginal birth or by cesarean section.
 
