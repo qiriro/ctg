@@ -13,6 +13,10 @@ The clinical trial and the development of the medical device is sponsored by Spi
 The clinical trial aims to evaluate the performance of a novel intelligent and Artificial Intelligence (AI) powered clinical decision support (CDS) system that was recently developed by Spiker Ltd. The results of the clinical trial will be used in acquiring national and international certification before the device is mass-produced and distributed in Africa in general, and in Rwanda in particular.
 
 The device is fully functional. The protocols of the clinical trial of this devices has been approved by the [Rwanda National Ethic Committee]({{ site.baseurl }}{% link /static_files/pdf/01-ethical-clearance.pdf %}) (Ethical Clearance No 29/RNEC/2022) and the clinical trial further approved by the [Rwanda Food and Drug Administration (FDA)]({{ site.baseurl }}{% link /static_files/pdf/02-clinical-trial-approval.pdf %}) to be installed and tested in Rwandan hospitals. 
+<figure class="figure">
+  <img src="{{site.url}}{{ site.baseurl}}/static_files/images/alert-screenshoot.png" class="figure-img img-fluid rounded">
+  <figcaption class="figure-caption"><b> Screenshot of the device in action</b> : A baby’s heartbeats are monitored using a CTG machine. The resulting CTG traces are sent to an AI engine. The AI engine uses the International Federation of Gynecology and Obstetrics (FIGO)’s guidelines on intrapartum fetal monitoring and utilizes large datasets of fetal heart rate (FHR) and uterine contraction (UC) features on cardiotocography classified by expert obstetricians to detect abnormal or suspicious fetus and give evidence-based recommendations on the best course of action. </figcaption>
+</figure>
 
 ## WHY THE DEVICE
 
@@ -29,7 +33,7 @@ In most hospital in Rwanda, intrapartum cardiotocography (CTG) is often used dur
 to monitor the heart rate of the baby and the mother’s uterine contractions. A CTG graph can help to evaluate the baby’s well-being and identify babies at risk of hypoxia during labor and to decide whether the baby will be delivered by instrumental vaginal birth or by cesarean section.
 <hr>
 <figure class="figure">
-  <img src="{{site.url}}{{ site.baseurl}}/static_files/images/ctg-output.jpeg" class="figure-img img-fluid rounded" alt="A generic square placeholder image with rounded corners in a figure.">
+  <img src="{{site.url}}{{ site.baseurl}}/static_files/images/ctg-output.jpeg" class="figure-img img-fluid rounded">
   <figcaption class="figure-caption">A typical output of a CTG machine <br> A CTG trace calculate heart rate from fetal heart motion determined by ultrasound, and uterine contractions are measured by a tocodynamometer. In this figure, (A) represents the fetal heartbeat,  the (B) indicator shows the movements felt by mother (triggered by pressing a button), (C) shows the fetal movement and (D) show the uterine contractions </figcaption>
 </figure>
 <hr>
