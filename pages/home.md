@@ -20,7 +20,7 @@ Intrapartum hypoxia (i.e., oxygen deficiency during birth)—commonly known as b
 emerges before, during, or after birth when a baby does not receive an adequate amount of
 oxygen. Intrapartum-related disorders are responsible for 25% of the world’s neonatal death and
 contribute to almost 50% of the 2.6 million third trimester stillbirths and are a significant burden to healthcare in low-income countries. In 2010, for example, 1.15 million infants developed neonatal brain damage due to some intrapartum hypoxic events, 90% of these complications taking place in low and middle-income countries.
-<hr>
+
 <figure class="figure">
   <img src="static_files/images/ctg-machine-example.jpg" class="figure-img img-fluid rounded">
 </figure>
